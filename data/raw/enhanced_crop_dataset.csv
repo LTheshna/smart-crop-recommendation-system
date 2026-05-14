@@ -1,0 +1,1001 @@
+region,N,P,K,ph,moisture,soil_texture,season,temperature,humidity,rainfall,crop,historical_yield,market_price
+Kerala,112,40,21,6.87,65,Sandy,Rabi,20,76,64,Rice,4200,22
+Tamil Nadu,93,63,68,6.73,67,Sandy,Rabi,31,56,333,Groundnut,1800,45
+Andhra Pradesh,77,31,39,5.66,66,Clay,Rabi,30,57,71,Wheat,3500,24
+Kerala,84,63,41,5.81,56,Sandy,Rabi,20,42,218,Cotton,1600,55
+Karnataka,54,29,39,6.49,32,Sandy,Rabi,22,57,76,Groundnut,1800,45
+Andhra Pradesh,56,66,58,5.97,15,Loamy,Zaid,32,45,271,Wheat,3500,24
+Kerala,104,44,37,7.33,34,Clay,Rabi,25,57,55,Groundnut,1800,45
+Tamil Nadu,55,56,77,5.76,56,Clay,Kharif,34,66,224,Wheat,3500,24
+Maharashtra,94,76,76,7.88,42,Loamy,Zaid,21,61,67,Wheat,3500,24
+Andhra Pradesh,95,21,48,7.33,36,Loamy,Rabi,24,49,313,Cotton,1600,55
+Karnataka,89,78,79,7.83,27,Clay,Kharif,29,44,147,Maize,2800,19
+Andhra Pradesh,90,50,80,6.13,46,Sandy,Zaid,34,71,169,Cotton,1600,55
+Andhra Pradesh,44,79,23,7.95,68,Loamy,Rabi,38,77,250,Rice,4200,22
+Andhra Pradesh,57,60,46,7.62,25,Clay,Zaid,33,47,275,Groundnut,1800,45
+Andhra Pradesh,117,54,39,6.49,33,Loamy,Zaid,35,59,351,Cotton,1600,55
+Maharashtra,81,57,42,6.7,51,Loamy,Kharif,19,63,87,Groundnut,1800,45
+Andhra Pradesh,118,24,77,5.87,59,Clay,Zaid,33,62,154,Maize,2800,19
+Andhra Pradesh,57,70,54,6.36,16,Sandy,Rabi,21,82,207,Rice,4200,22
+Kerala,56,53,78,6.43,38,Sandy,Rabi,18,58,174,Wheat,3500,24
+Maharashtra,54,70,54,7.89,64,Sandy,Rabi,31,59,176,Maize,2800,19
+Kerala,91,61,52,5.65,56,Sandy,Zaid,19,80,256,Wheat,3500,24
+Maharashtra,105,37,26,7.28,68,Loamy,Rabi,29,60,113,Groundnut,1800,45
+Andhra Pradesh,115,34,74,6.99,18,Loamy,Rabi,21,88,56,Groundnut,1800,45
+Kerala,68,59,31,7.49,19,Clay,Zaid,29,69,277,Rice,4200,22
+Kerala,96,49,40,5.82,46,Clay,Kharif,27,56,89,Maize,2800,19
+Tamil Nadu,99,40,24,6.17,31,Clay,Rabi,18,69,95,Maize,2800,19
+Tamil Nadu,82,45,70,6.76,19,Sandy,Rabi,28,43,234,Rice,4200,22
+Tamil Nadu,46,21,23,6.97,70,Sandy,Zaid,25,52,112,Cotton,1600,55
+Andhra Pradesh,57,48,39,7.71,57,Clay,Rabi,35,54,209,Rice,4200,22
+Andhra Pradesh,59,22,21,6.28,53,Sandy,Rabi,24,82,343,Rice,4200,22
+Maharashtra,88,27,30,6.08,66,Clay,Zaid,19,45,318,Maize,2800,19
+Maharashtra,97,57,58,6.89,68,Clay,Kharif,29,48,368,Maize,2800,19
+Andhra Pradesh,84,28,51,7.3,22,Sandy,Kharif,24,57,203,Rice,4200,22
+Kerala,113,51,64,6.77,43,Sandy,Rabi,35,81,130,Wheat,3500,24
+Tamil Nadu,120,38,23,7.95,27,Loamy,Kharif,24,44,131,Wheat,3500,24
+Andhra Pradesh,46,42,23,6.83,47,Clay,Zaid,26,53,81,Maize,2800,19
+Andhra Pradesh,75,34,74,7.39,43,Sandy,Kharif,19,57,397,Cotton,1600,55
+Maharashtra,58,53,28,7.44,42,Loamy,Rabi,30,44,251,Wheat,3500,24
+Karnataka,120,20,59,6.53,24,Loamy,Zaid,21,65,75,Maize,2800,19
+Kerala,51,69,24,6.04,66,Clay,Rabi,18,84,303,Rice,4200,22
+Tamil Nadu,114,51,40,6.15,31,Loamy,Zaid,33,77,294,Wheat,3500,24
+Kerala,47,64,61,6.57,26,Clay,Kharif,36,53,363,Groundnut,1800,45
+Andhra Pradesh,100,65,37,6.42,40,Sandy,Rabi,33,57,207,Maize,2800,19
+Karnataka,59,33,52,7.39,40,Loamy,Kharif,23,73,60,Wheat,3500,24
+Andhra Pradesh,56,56,34,6.1,37,Sandy,Kharif,24,57,168,Cotton,1600,55
+Tamil Nadu,41,24,32,5.67,45,Loamy,Rabi,36,69,220,Groundnut,1800,45
+Kerala,100,58,71,7.03,27,Clay,Rabi,24,60,192,Rice,4200,22
+Andhra Pradesh,76,74,33,6.21,65,Loamy,Kharif,22,60,372,Groundnut,1800,45
+Andhra Pradesh,86,33,59,6.48,65,Loamy,Kharif,36,49,201,Rice,4200,22
+Kerala,109,27,78,7.03,31,Clay,Kharif,22,63,231,Groundnut,1800,45
+Kerala,46,54,63,7.41,28,Clay,Zaid,22,50,264,Cotton,1600,55
+Kerala,59,63,27,5.99,21,Sandy,Zaid,25,49,295,Maize,2800,19
+Karnataka,59,80,52,6.03,23,Sandy,Rabi,23,85,314,Groundnut,1800,45
+Andhra Pradesh,71,70,20,6.99,43,Loamy,Zaid,26,72,177,Groundnut,1800,45
+Maharashtra,61,47,40,6.53,32,Clay,Zaid,31,87,208,Cotton,1600,55
+Maharashtra,119,62,33,5.85,18,Sandy,Zaid,28,45,119,Groundnut,1800,45
+Tamil Nadu,51,41,65,7.48,21,Loamy,Zaid,29,56,396,Maize,2800,19
+Andhra Pradesh,96,43,72,6.91,47,Clay,Rabi,25,79,321,Maize,2800,19
+Kerala,63,66,44,7.95,31,Sandy,Rabi,25,78,51,Groundnut,1800,45
+Kerala,42,57,64,6.02,17,Clay,Kharif,23,45,187,Rice,4200,22
+Maharashtra,113,78,57,7.31,45,Sandy,Zaid,25,50,394,Cotton,1600,55
+Kerala,90,26,46,7.05,68,Loamy,Rabi,27,80,315,Groundnut,1800,45
+Kerala,48,33,75,6.36,22,Loamy,Kharif,27,84,79,Maize,2800,19
+Kerala,99,77,27,7.2,55,Loamy,Rabi,33,60,396,Rice,4200,22
+Maharashtra,88,23,64,6.54,44,Clay,Kharif,20,68,80,Cotton,1600,55
+Tamil Nadu,92,42,52,5.61,50,Sandy,Zaid,26,53,297,Maize,2800,19
+Maharashtra,68,73,29,7.92,35,Loamy,Rabi,32,66,398,Maize,2800,19
+Karnataka,40,20,34,6.56,60,Clay,Rabi,27,48,131,Wheat,3500,24
+Andhra Pradesh,67,76,51,6.45,15,Loamy,Zaid,31,54,394,Rice,4200,22
+Andhra Pradesh,98,60,78,7.58,61,Loamy,Kharif,31,69,264,Wheat,3500,24
+Maharashtra,64,75,79,6.52,27,Clay,Kharif,26,81,255,Rice,4200,22
+Karnataka,107,41,71,6.18,35,Loamy,Rabi,31,55,67,Rice,4200,22
+Tamil Nadu,99,32,78,7.61,39,Loamy,Kharif,18,66,306,Rice,4200,22
+Maharashtra,51,30,66,7.91,56,Clay,Rabi,35,49,287,Cotton,1600,55
+Tamil Nadu,90,39,31,7.33,39,Loamy,Rabi,19,57,204,Maize,2800,19
+Tamil Nadu,77,53,52,7.0,69,Sandy,Rabi,21,81,236,Rice,4200,22
+Maharashtra,46,59,68,6.88,68,Loamy,Rabi,28,64,85,Rice,4200,22
+Karnataka,120,43,34,7.62,45,Clay,Kharif,19,49,90,Maize,2800,19
+Kerala,43,30,54,7.38,47,Sandy,Rabi,32,88,71,Wheat,3500,24
+Tamil Nadu,77,35,53,6.42,20,Loamy,Kharif,20,67,248,Maize,2800,19
+Andhra Pradesh,70,44,40,6.36,42,Loamy,Kharif,20,46,155,Groundnut,1800,45
+Maharashtra,73,77,72,5.62,61,Loamy,Kharif,24,55,320,Wheat,3500,24
+Karnataka,95,80,36,6.2,26,Sandy,Kharif,25,69,115,Rice,4200,22
+Karnataka,84,33,36,6.11,56,Sandy,Zaid,37,66,120,Cotton,1600,55
+Karnataka,94,78,37,7.64,40,Sandy,Kharif,37,66,127,Groundnut,1800,45
+Kerala,87,73,79,5.81,48,Loamy,Rabi,26,79,105,Maize,2800,19
+Tamil Nadu,70,46,71,6.66,61,Loamy,Zaid,33,53,160,Groundnut,1800,45
+Kerala,82,36,24,7.6,58,Loamy,Zaid,26,73,399,Cotton,1600,55
+Karnataka,115,75,62,7.68,46,Loamy,Rabi,24,71,289,Wheat,3500,24
+Karnataka,114,29,38,7.81,46,Clay,Kharif,21,89,154,Groundnut,1800,45
+Maharashtra,103,42,37,7.3,27,Loamy,Zaid,25,89,112,Maize,2800,19
+Karnataka,62,22,41,5.78,24,Loamy,Zaid,32,90,180,Cotton,1600,55
+Andhra Pradesh,96,62,75,5.79,51,Sandy,Kharif,29,55,362,Maize,2800,19
+Tamil Nadu,58,53,76,6.18,46,Clay,Kharif,24,60,281,Maize,2800,19
+Kerala,118,65,50,6.16,50,Sandy,Rabi,23,68,338,Maize,2800,19
+Andhra Pradesh,101,53,28,6.96,23,Clay,Kharif,31,84,374,Wheat,3500,24
+Karnataka,64,24,63,5.88,63,Loamy,Kharif,33,48,291,Rice,4200,22
+Kerala,50,67,71,5.58,33,Clay,Rabi,23,77,378,Maize,2800,19
+Andhra Pradesh,49,43,42,7.6,63,Sandy,Kharif,29,42,209,Wheat,3500,24
+Maharashtra,94,72,67,6.99,18,Clay,Rabi,29,87,211,Groundnut,1800,45
+Karnataka,66,30,44,7.15,50,Sandy,Zaid,37,56,227,Maize,2800,19
+Maharashtra,41,62,43,6.46,58,Clay,Zaid,24,75,213,Groundnut,1800,45
+Maharashtra,55,40,39,7.74,18,Loamy,Kharif,37,59,222,Maize,2800,19
+Kerala,70,27,43,7.76,63,Clay,Rabi,18,66,365,Groundnut,1800,45
+Andhra Pradesh,104,73,27,6.27,68,Clay,Kharif,32,89,364,Cotton,1600,55
+Karnataka,92,79,55,6.66,48,Clay,Rabi,21,55,115,Cotton,1600,55
+Karnataka,63,77,24,6.97,57,Clay,Rabi,35,44,352,Groundnut,1800,45
+Andhra Pradesh,95,23,49,6.84,25,Loamy,Kharif,28,60,154,Maize,2800,19
+Karnataka,41,34,29,7.93,17,Sandy,Kharif,38,79,200,Groundnut,1800,45
+Kerala,99,75,55,7.48,31,Sandy,Rabi,22,62,217,Rice,4200,22
+Andhra Pradesh,85,49,69,6.71,69,Clay,Rabi,37,78,205,Wheat,3500,24
+Kerala,120,24,59,7.23,56,Sandy,Zaid,37,83,211,Groundnut,1800,45
+Kerala,69,53,50,7.88,37,Sandy,Kharif,18,62,106,Rice,4200,22
+Maharashtra,51,66,46,7.12,41,Loamy,Zaid,21,69,55,Maize,2800,19
+Karnataka,53,76,58,5.59,65,Clay,Rabi,25,77,250,Rice,4200,22
+Tamil Nadu,118,24,20,7.36,47,Sandy,Rabi,33,71,126,Rice,4200,22
+Andhra Pradesh,104,67,44,7.88,60,Clay,Rabi,23,81,106,Groundnut,1800,45
+Kerala,87,39,47,6.54,24,Clay,Zaid,20,70,75,Cotton,1600,55
+Karnataka,76,46,80,6.72,27,Loamy,Rabi,29,69,204,Groundnut,1800,45
+Tamil Nadu,113,52,32,7.5,30,Sandy,Rabi,32,46,79,Maize,2800,19
+Tamil Nadu,62,34,66,6.12,67,Clay,Zaid,32,81,104,Maize,2800,19
+Tamil Nadu,91,78,38,7.96,58,Sandy,Zaid,18,57,59,Cotton,1600,55
+Tamil Nadu,98,52,34,7.77,29,Loamy,Rabi,20,58,182,Maize,2800,19
+Andhra Pradesh,112,36,67,7.86,40,Clay,Kharif,35,44,370,Rice,4200,22
+Maharashtra,74,20,38,6.84,61,Sandy,Kharif,37,84,132,Groundnut,1800,45
+Karnataka,92,49,32,5.61,44,Loamy,Zaid,22,56,50,Groundnut,1800,45
+Tamil Nadu,112,30,57,6.73,30,Loamy,Kharif,21,46,333,Cotton,1600,55
+Andhra Pradesh,46,48,20,6.82,62,Sandy,Kharif,31,49,86,Groundnut,1800,45
+Tamil Nadu,89,73,27,7.09,69,Loamy,Kharif,32,71,224,Cotton,1600,55
+Karnataka,86,79,69,7.64,27,Sandy,Kharif,20,88,316,Cotton,1600,55
+Tamil Nadu,107,42,23,5.63,20,Sandy,Zaid,21,83,237,Maize,2800,19
+Andhra Pradesh,65,80,70,7.91,26,Sandy,Kharif,24,65,65,Rice,4200,22
+Maharashtra,41,70,37,5.83,68,Loamy,Rabi,21,66,57,Cotton,1600,55
+Karnataka,92,48,64,5.65,66,Clay,Rabi,33,55,245,Rice,4200,22
+Andhra Pradesh,116,62,36,7.62,46,Loamy,Zaid,27,86,269,Wheat,3500,24
+Karnataka,119,27,56,6.51,66,Clay,Zaid,25,49,368,Rice,4200,22
+Kerala,103,21,28,6.77,69,Clay,Rabi,30,82,256,Cotton,1600,55
+Kerala,83,30,69,7.86,41,Sandy,Zaid,26,64,321,Wheat,3500,24
+Kerala,49,75,63,7.37,27,Loamy,Zaid,33,64,287,Groundnut,1800,45
+Karnataka,100,57,28,7.65,37,Loamy,Rabi,33,85,351,Rice,4200,22
+Kerala,116,43,53,6.3,39,Clay,Kharif,32,68,167,Maize,2800,19
+Andhra Pradesh,91,31,68,5.87,32,Clay,Kharif,36,56,167,Maize,2800,19
+Kerala,44,71,53,6.76,47,Sandy,Zaid,38,49,136,Maize,2800,19
+Tamil Nadu,79,40,23,6.51,20,Sandy,Kharif,26,74,119,Rice,4200,22
+Tamil Nadu,79,21,59,6.58,25,Clay,Kharif,38,74,287,Groundnut,1800,45
+Tamil Nadu,49,73,43,7.62,35,Clay,Zaid,38,85,339,Wheat,3500,24
+Maharashtra,77,26,72,7.15,36,Clay,Rabi,38,69,136,Rice,4200,22
+Karnataka,91,46,27,5.72,47,Loamy,Rabi,30,47,380,Rice,4200,22
+Maharashtra,120,52,54,6.69,42,Sandy,Zaid,30,52,302,Groundnut,1800,45
+Tamil Nadu,81,28,56,7.25,64,Loamy,Kharif,22,54,329,Cotton,1600,55
+Kerala,90,58,54,5.87,68,Loamy,Kharif,30,42,149,Groundnut,1800,45
+Andhra Pradesh,42,49,52,6.37,32,Loamy,Kharif,36,64,126,Rice,4200,22
+Andhra Pradesh,50,39,22,7.2,39,Sandy,Zaid,29,60,76,Cotton,1600,55
+Tamil Nadu,101,47,48,7.36,23,Loamy,Zaid,24,40,137,Groundnut,1800,45
+Andhra Pradesh,81,31,44,6.47,29,Loamy,Zaid,29,86,91,Wheat,3500,24
+Andhra Pradesh,112,51,61,6.67,16,Sandy,Kharif,21,87,59,Rice,4200,22
+Andhra Pradesh,54,63,38,7.63,21,Clay,Zaid,23,53,398,Wheat,3500,24
+Tamil Nadu,40,35,65,7.03,34,Loamy,Rabi,37,66,121,Cotton,1600,55
+Kerala,63,32,22,6.31,64,Loamy,Kharif,38,68,253,Wheat,3500,24
+Kerala,118,37,55,6.99,19,Loamy,Zaid,23,69,146,Cotton,1600,55
+Tamil Nadu,100,35,33,6.28,17,Clay,Rabi,30,75,191,Rice,4200,22
+Kerala,110,28,45,5.58,37,Sandy,Zaid,20,44,355,Maize,2800,19
+Tamil Nadu,86,34,31,5.52,58,Clay,Zaid,25,73,224,Cotton,1600,55
+Kerala,53,63,77,6.75,61,Loamy,Rabi,26,50,248,Maize,2800,19
+Karnataka,92,27,54,7.85,39,Sandy,Rabi,21,40,332,Maize,2800,19
+Andhra Pradesh,91,74,74,6.71,55,Sandy,Zaid,23,60,309,Groundnut,1800,45
+Andhra Pradesh,65,51,25,6.35,17,Clay,Rabi,19,70,156,Rice,4200,22
+Andhra Pradesh,45,31,79,6.68,32,Loamy,Rabi,33,44,334,Rice,4200,22
+Maharashtra,63,38,72,6.84,18,Loamy,Zaid,36,61,56,Cotton,1600,55
+Tamil Nadu,41,52,41,7.83,49,Loamy,Kharif,33,46,376,Cotton,1600,55
+Tamil Nadu,56,45,38,6.45,20,Loamy,Kharif,37,40,264,Rice,4200,22
+Tamil Nadu,104,79,25,5.77,41,Sandy,Rabi,26,77,168,Rice,4200,22
+Maharashtra,44,69,22,5.75,27,Sandy,Kharif,35,57,52,Wheat,3500,24
+Tamil Nadu,110,31,49,6.58,59,Sandy,Zaid,33,55,380,Rice,4200,22
+Tamil Nadu,104,37,43,7.16,27,Sandy,Zaid,21,40,378,Cotton,1600,55
+Tamil Nadu,104,75,49,6.0,61,Clay,Rabi,30,44,147,Maize,2800,19
+Kerala,69,77,61,5.81,55,Sandy,Kharif,22,77,354,Wheat,3500,24
+Maharashtra,59,74,59,5.53,16,Loamy,Rabi,33,87,295,Rice,4200,22
+Maharashtra,73,76,61,7.8,27,Clay,Rabi,34,74,134,Rice,4200,22
+Kerala,53,24,80,7.53,16,Clay,Zaid,30,64,386,Rice,4200,22
+Kerala,94,29,76,7.57,39,Sandy,Zaid,21,83,126,Wheat,3500,24
+Kerala,115,26,27,6.55,54,Loamy,Zaid,30,81,216,Wheat,3500,24
+Karnataka,43,37,37,6.42,24,Clay,Zaid,33,49,52,Wheat,3500,24
+Karnataka,77,31,28,7.69,52,Loamy,Rabi,23,64,148,Rice,4200,22
+Kerala,47,65,45,6.23,25,Sandy,Kharif,35,90,315,Cotton,1600,55
+Andhra Pradesh,94,30,49,6.57,15,Sandy,Kharif,21,70,72,Rice,4200,22
+Kerala,90,70,28,7.85,48,Sandy,Zaid,36,73,137,Cotton,1600,55
+Kerala,66,55,66,7.92,43,Loamy,Rabi,29,82,126,Rice,4200,22
+Karnataka,87,30,47,7.87,62,Sandy,Zaid,35,75,277,Wheat,3500,24
+Tamil Nadu,75,80,56,7.14,38,Loamy,Kharif,26,61,183,Wheat,3500,24
+Andhra Pradesh,112,23,51,7.7,50,Sandy,Zaid,23,74,254,Rice,4200,22
+Karnataka,100,76,59,7.85,44,Clay,Zaid,30,41,198,Groundnut,1800,45
+Karnataka,83,79,59,6.76,69,Loamy,Zaid,35,76,338,Cotton,1600,55
+Maharashtra,104,41,40,5.78,47,Loamy,Kharif,24,71,283,Cotton,1600,55
+Andhra Pradesh,103,66,35,5.76,33,Sandy,Kharif,33,84,144,Wheat,3500,24
+Maharashtra,57,57,46,7.16,31,Clay,Rabi,38,42,270,Rice,4200,22
+Karnataka,98,31,24,6.33,40,Sandy,Zaid,27,61,399,Cotton,1600,55
+Tamil Nadu,116,80,70,5.96,31,Clay,Rabi,29,44,262,Groundnut,1800,45
+Tamil Nadu,65,59,56,6.32,24,Loamy,Zaid,34,53,337,Wheat,3500,24
+Kerala,45,71,76,6.01,63,Clay,Rabi,37,47,173,Cotton,1600,55
+Tamil Nadu,72,57,22,5.71,49,Clay,Rabi,26,61,229,Maize,2800,19
+Tamil Nadu,51,23,23,7.53,58,Loamy,Kharif,33,49,177,Rice,4200,22
+Karnataka,119,73,32,5.95,51,Loamy,Kharif,21,79,316,Rice,4200,22
+Karnataka,94,63,30,6.98,39,Clay,Kharif,20,88,246,Rice,4200,22
+Andhra Pradesh,70,24,57,6.89,52,Sandy,Rabi,32,53,354,Groundnut,1800,45
+Kerala,61,40,76,5.9,50,Clay,Rabi,36,70,87,Wheat,3500,24
+Andhra Pradesh,62,62,54,7.73,50,Loamy,Kharif,22,90,69,Cotton,1600,55
+Tamil Nadu,112,38,60,7.7,33,Sandy,Zaid,32,43,218,Maize,2800,19
+Kerala,118,66,74,6.59,46,Clay,Kharif,30,52,268,Rice,4200,22
+Karnataka,100,49,38,7.78,21,Sandy,Kharif,30,73,185,Cotton,1600,55
+Tamil Nadu,89,30,76,5.73,33,Sandy,Zaid,28,90,86,Groundnut,1800,45
+Andhra Pradesh,43,34,54,6.48,58,Loamy,Kharif,37,59,271,Rice,4200,22
+Kerala,80,71,40,6.29,58,Clay,Rabi,18,87,362,Maize,2800,19
+Maharashtra,70,69,62,7.47,49,Clay,Kharif,28,76,355,Maize,2800,19
+Andhra Pradesh,50,62,31,7.99,65,Clay,Zaid,29,65,225,Groundnut,1800,45
+Kerala,41,31,57,6.6,56,Sandy,Zaid,27,47,69,Cotton,1600,55
+Andhra Pradesh,95,64,56,7.17,49,Clay,Zaid,24,66,134,Groundnut,1800,45
+Maharashtra,41,79,39,7.14,31,Clay,Kharif,37,88,171,Maize,2800,19
+Andhra Pradesh,63,68,63,7.26,50,Loamy,Zaid,30,80,400,Rice,4200,22
+Andhra Pradesh,75,27,47,5.91,42,Loamy,Rabi,25,88,365,Wheat,3500,24
+Tamil Nadu,95,58,70,7.78,34,Clay,Zaid,35,54,226,Groundnut,1800,45
+Andhra Pradesh,119,69,36,6.63,39,Loamy,Rabi,38,49,240,Maize,2800,19
+Kerala,105,30,25,5.97,70,Sandy,Kharif,21,59,155,Wheat,3500,24
+Karnataka,60,72,37,7.57,62,Loamy,Kharif,28,85,331,Cotton,1600,55
+Maharashtra,56,61,79,6.98,20,Clay,Rabi,34,70,226,Maize,2800,19
+Andhra Pradesh,43,71,45,7.35,27,Loamy,Zaid,31,89,221,Rice,4200,22
+Maharashtra,120,58,74,7.06,64,Loamy,Kharif,38,50,238,Groundnut,1800,45
+Tamil Nadu,62,79,30,6.91,32,Loamy,Zaid,22,87,230,Cotton,1600,55
+Andhra Pradesh,63,57,45,5.69,62,Loamy,Rabi,28,69,70,Wheat,3500,24
+Andhra Pradesh,50,37,47,7.07,43,Clay,Rabi,18,71,236,Maize,2800,19
+Andhra Pradesh,86,65,20,5.68,33,Sandy,Zaid,30,86,258,Rice,4200,22
+Kerala,82,20,48,5.86,61,Loamy,Zaid,32,41,260,Maize,2800,19
+Kerala,54,47,79,7.31,42,Sandy,Zaid,21,73,391,Rice,4200,22
+Andhra Pradesh,115,46,42,6.65,38,Sandy,Kharif,33,58,93,Cotton,1600,55
+Kerala,71,28,22,6.9,40,Clay,Kharif,33,80,147,Rice,4200,22
+Tamil Nadu,62,44,46,6.06,25,Clay,Rabi,30,64,397,Groundnut,1800,45
+Andhra Pradesh,54,52,72,6.51,62,Sandy,Kharif,28,65,245,Rice,4200,22
+Karnataka,81,77,56,7.39,60,Clay,Kharif,37,73,192,Rice,4200,22
+Kerala,55,76,34,7.75,41,Sandy,Kharif,26,58,157,Wheat,3500,24
+Maharashtra,83,43,66,5.51,42,Clay,Zaid,38,42,335,Groundnut,1800,45
+Kerala,43,33,26,6.9,59,Clay,Kharif,22,89,119,Groundnut,1800,45
+Andhra Pradesh,111,25,56,7.85,50,Sandy,Kharif,24,77,248,Maize,2800,19
+Karnataka,106,35,62,6.0,16,Sandy,Kharif,21,82,232,Cotton,1600,55
+Kerala,106,30,62,5.97,21,Clay,Kharif,32,65,104,Cotton,1600,55
+Kerala,66,22,44,6.19,21,Clay,Kharif,36,86,197,Groundnut,1800,45
+Kerala,60,24,80,7.33,53,Clay,Zaid,21,74,255,Maize,2800,19
+Kerala,90,45,72,6.05,65,Loamy,Rabi,30,69,55,Cotton,1600,55
+Kerala,118,22,65,5.66,55,Loamy,Zaid,23,64,64,Groundnut,1800,45
+Kerala,119,42,73,6.69,54,Sandy,Rabi,32,83,163,Maize,2800,19
+Tamil Nadu,79,33,42,7.38,27,Loamy,Zaid,37,73,375,Cotton,1600,55
+Karnataka,66,35,44,6.66,25,Loamy,Kharif,37,44,214,Wheat,3500,24
+Andhra Pradesh,48,61,35,7.21,32,Loamy,Zaid,38,50,103,Cotton,1600,55
+Tamil Nadu,69,78,41,7.6,38,Loamy,Kharif,38,63,386,Cotton,1600,55
+Andhra Pradesh,66,35,42,7.84,67,Sandy,Zaid,38,63,156,Maize,2800,19
+Andhra Pradesh,101,58,74,7.27,21,Loamy,Kharif,20,81,117,Groundnut,1800,45
+Tamil Nadu,52,38,39,6.41,57,Clay,Zaid,18,76,358,Wheat,3500,24
+Tamil Nadu,95,76,35,5.77,39,Sandy,Zaid,38,74,367,Maize,2800,19
+Kerala,92,66,28,6.78,65,Loamy,Kharif,35,53,259,Groundnut,1800,45
+Andhra Pradesh,62,71,75,7.63,39,Sandy,Zaid,20,68,143,Groundnut,1800,45
+Tamil Nadu,87,59,25,7.11,60,Loamy,Rabi,26,67,297,Rice,4200,22
+Kerala,41,33,39,6.01,21,Sandy,Zaid,25,45,83,Cotton,1600,55
+Tamil Nadu,116,75,46,6.39,32,Clay,Rabi,32,40,333,Wheat,3500,24
+Kerala,100,28,44,7.14,59,Sandy,Zaid,21,86,182,Groundnut,1800,45
+Andhra Pradesh,49,27,77,6.27,31,Sandy,Kharif,33,86,216,Rice,4200,22
+Andhra Pradesh,71,24,46,6.26,40,Sandy,Zaid,24,62,254,Groundnut,1800,45
+Kerala,111,71,67,6.16,26,Clay,Zaid,19,78,390,Rice,4200,22
+Karnataka,95,59,73,7.42,20,Loamy,Kharif,30,68,377,Groundnut,1800,45
+Maharashtra,89,77,50,7.3,70,Sandy,Kharif,22,72,167,Wheat,3500,24
+Karnataka,74,30,24,6.13,53,Clay,Zaid,20,66,167,Rice,4200,22
+Karnataka,96,71,70,7.31,70,Sandy,Rabi,25,66,393,Maize,2800,19
+Kerala,89,20,48,5.56,39,Clay,Zaid,19,84,275,Cotton,1600,55
+Maharashtra,69,42,25,7.83,22,Clay,Zaid,20,43,50,Wheat,3500,24
+Tamil Nadu,58,29,40,6.02,49,Loamy,Zaid,31,43,193,Cotton,1600,55
+Kerala,85,76,80,6.31,15,Loamy,Kharif,22,64,244,Rice,4200,22
+Tamil Nadu,99,47,62,7.47,53,Sandy,Zaid,21,65,176,Wheat,3500,24
+Karnataka,56,65,35,7.93,46,Clay,Zaid,29,56,144,Cotton,1600,55
+Maharashtra,57,77,35,6.52,40,Clay,Kharif,34,61,375,Groundnut,1800,45
+Tamil Nadu,106,47,30,7.94,68,Loamy,Kharif,21,49,92,Cotton,1600,55
+Tamil Nadu,104,50,57,7.66,57,Loamy,Zaid,21,85,79,Wheat,3500,24
+Tamil Nadu,95,39,24,5.85,18,Loamy,Kharif,25,46,199,Rice,4200,22
+Andhra Pradesh,76,62,43,5.9,47,Loamy,Rabi,29,81,380,Rice,4200,22
+Karnataka,67,37,62,7.12,31,Clay,Kharif,31,51,264,Maize,2800,19
+Andhra Pradesh,85,57,58,6.19,24,Sandy,Kharif,35,75,102,Maize,2800,19
+Kerala,89,63,21,6.05,46,Clay,Kharif,23,47,388,Wheat,3500,24
+Karnataka,98,35,73,7.87,21,Sandy,Zaid,27,62,339,Groundnut,1800,45
+Andhra Pradesh,92,55,61,6.7,61,Loamy,Rabi,24,71,289,Rice,4200,22
+Kerala,81,45,80,7.8,22,Clay,Rabi,25,41,148,Groundnut,1800,45
+Andhra Pradesh,57,60,25,5.75,30,Sandy,Rabi,35,45,289,Maize,2800,19
+Tamil Nadu,96,44,68,7.22,38,Loamy,Kharif,20,47,304,Rice,4200,22
+Maharashtra,68,33,44,6.3,42,Loamy,Zaid,25,66,218,Maize,2800,19
+Kerala,61,44,59,6.81,44,Clay,Zaid,30,73,339,Cotton,1600,55
+Maharashtra,86,59,39,7.34,33,Clay,Rabi,19,87,89,Rice,4200,22
+Maharashtra,94,79,34,5.78,23,Sandy,Zaid,34,56,318,Maize,2800,19
+Kerala,76,23,79,6.31,37,Loamy,Zaid,30,89,265,Groundnut,1800,45
+Kerala,86,26,50,6.7,15,Sandy,Rabi,30,83,306,Groundnut,1800,45
+Maharashtra,92,57,42,7.76,64,Loamy,Rabi,27,67,214,Rice,4200,22
+Andhra Pradesh,62,51,53,6.86,47,Clay,Rabi,38,48,69,Cotton,1600,55
+Maharashtra,106,33,62,5.54,22,Sandy,Zaid,33,72,148,Groundnut,1800,45
+Tamil Nadu,92,79,66,7.52,39,Loamy,Rabi,19,76,145,Groundnut,1800,45
+Tamil Nadu,98,68,75,5.52,21,Clay,Rabi,22,62,379,Cotton,1600,55
+Karnataka,93,65,71,5.99,65,Clay,Rabi,26,60,199,Wheat,3500,24
+Maharashtra,111,63,42,6.69,52,Loamy,Kharif,34,77,229,Wheat,3500,24
+Tamil Nadu,96,54,50,5.53,65,Loamy,Zaid,32,50,272,Rice,4200,22
+Andhra Pradesh,88,79,47,6.75,65,Clay,Zaid,19,89,294,Groundnut,1800,45
+Andhra Pradesh,84,49,61,5.72,69,Sandy,Rabi,32,62,98,Wheat,3500,24
+Maharashtra,112,69,77,5.9,67,Loamy,Kharif,29,74,365,Rice,4200,22
+Maharashtra,75,52,47,5.84,20,Loamy,Kharif,28,72,113,Cotton,1600,55
+Karnataka,100,22,71,6.09,65,Clay,Zaid,35,68,81,Groundnut,1800,45
+Tamil Nadu,86,25,59,6.53,45,Clay,Kharif,33,80,202,Maize,2800,19
+Karnataka,63,62,57,6.25,34,Loamy,Rabi,28,45,321,Groundnut,1800,45
+Andhra Pradesh,75,65,77,5.53,56,Sandy,Rabi,27,48,229,Wheat,3500,24
+Karnataka,42,37,25,5.98,68,Clay,Kharif,34,90,188,Rice,4200,22
+Kerala,56,50,58,6.28,23,Clay,Zaid,21,64,134,Wheat,3500,24
+Kerala,116,72,78,7.59,53,Clay,Kharif,24,52,362,Maize,2800,19
+Tamil Nadu,116,56,42,5.55,35,Clay,Kharif,30,49,176,Wheat,3500,24
+Andhra Pradesh,99,32,77,7.91,53,Sandy,Zaid,23,88,80,Cotton,1600,55
+Andhra Pradesh,57,75,54,5.97,41,Sandy,Zaid,26,68,232,Rice,4200,22
+Maharashtra,72,33,30,6.05,37,Loamy,Rabi,24,44,55,Cotton,1600,55
+Tamil Nadu,116,21,26,7.27,56,Clay,Zaid,27,61,320,Groundnut,1800,45
+Kerala,114,72,20,6.14,56,Sandy,Kharif,30,43,91,Groundnut,1800,45
+Maharashtra,67,79,27,7.4,47,Clay,Kharif,28,66,155,Rice,4200,22
+Andhra Pradesh,63,77,80,7.47,38,Sandy,Kharif,28,48,218,Maize,2800,19
+Karnataka,120,47,21,5.68,52,Sandy,Kharif,26,88,284,Groundnut,1800,45
+Tamil Nadu,113,47,61,6.56,64,Sandy,Rabi,31,86,274,Wheat,3500,24
+Kerala,98,46,68,6.66,50,Sandy,Rabi,24,49,314,Groundnut,1800,45
+Tamil Nadu,110,50,76,6.29,64,Sandy,Rabi,37,77,165,Maize,2800,19
+Andhra Pradesh,82,56,57,7.71,70,Clay,Kharif,18,75,323,Groundnut,1800,45
+Kerala,97,78,63,6.01,24,Loamy,Zaid,25,67,259,Cotton,1600,55
+Andhra Pradesh,99,44,71,6.82,65,Clay,Kharif,30,48,87,Rice,4200,22
+Karnataka,89,50,62,5.78,42,Clay,Kharif,18,53,113,Groundnut,1800,45
+Kerala,91,49,62,6.18,60,Sandy,Zaid,35,83,318,Rice,4200,22
+Kerala,46,43,69,6.82,19,Sandy,Rabi,22,81,79,Maize,2800,19
+Andhra Pradesh,57,68,70,7.58,65,Loamy,Rabi,34,86,108,Cotton,1600,55
+Kerala,114,32,40,5.91,45,Loamy,Kharif,22,69,140,Cotton,1600,55
+Tamil Nadu,82,78,53,6.7,56,Sandy,Rabi,23,64,157,Groundnut,1800,45
+Andhra Pradesh,110,29,77,7.11,59,Sandy,Rabi,26,60,281,Wheat,3500,24
+Kerala,111,58,53,7.06,43,Clay,Zaid,37,67,260,Wheat,3500,24
+Tamil Nadu,76,59,50,7.01,66,Loamy,Kharif,18,64,115,Maize,2800,19
+Kerala,73,62,73,5.83,35,Clay,Rabi,27,71,127,Cotton,1600,55
+Andhra Pradesh,78,30,63,7.65,19,Clay,Kharif,31,79,279,Wheat,3500,24
+Kerala,63,52,37,7.13,50,Sandy,Kharif,29,49,307,Wheat,3500,24
+Karnataka,42,47,80,5.91,67,Loamy,Rabi,25,50,209,Groundnut,1800,45
+Kerala,91,72,65,5.79,20,Clay,Kharif,37,46,263,Maize,2800,19
+Tamil Nadu,72,79,45,5.78,57,Clay,Rabi,21,80,292,Rice,4200,22
+Maharashtra,91,24,56,6.67,45,Loamy,Zaid,29,46,340,Groundnut,1800,45
+Andhra Pradesh,120,25,23,5.59,28,Loamy,Rabi,20,47,139,Maize,2800,19
+Kerala,103,50,59,6.83,56,Sandy,Zaid,31,87,116,Groundnut,1800,45
+Kerala,94,34,49,6.1,54,Clay,Kharif,35,79,255,Maize,2800,19
+Maharashtra,70,39,57,6.97,16,Sandy,Zaid,26,77,81,Maize,2800,19
+Maharashtra,66,41,57,7.08,56,Clay,Kharif,34,54,118,Wheat,3500,24
+Karnataka,110,58,20,5.96,16,Loamy,Rabi,38,58,346,Rice,4200,22
+Karnataka,58,42,57,6.78,70,Loamy,Zaid,26,41,77,Groundnut,1800,45
+Maharashtra,108,43,70,5.98,31,Loamy,Zaid,30,90,280,Groundnut,1800,45
+Kerala,105,63,51,7.87,44,Loamy,Rabi,26,64,171,Maize,2800,19
+Tamil Nadu,89,58,77,5.84,54,Sandy,Kharif,37,51,77,Groundnut,1800,45
+Kerala,59,65,49,7.32,26,Loamy,Zaid,32,48,125,Cotton,1600,55
+Karnataka,114,29,54,7.52,62,Sandy,Zaid,35,89,121,Cotton,1600,55
+Kerala,70,22,22,7.09,33,Clay,Kharif,37,87,176,Rice,4200,22
+Tamil Nadu,49,37,78,6.01,56,Loamy,Zaid,25,42,63,Rice,4200,22
+Karnataka,51,73,47,6.6,64,Clay,Kharif,25,73,211,Wheat,3500,24
+Karnataka,118,32,55,7.34,40,Sandy,Rabi,19,44,321,Maize,2800,19
+Andhra Pradesh,79,50,49,7.11,26,Sandy,Zaid,34,56,51,Rice,4200,22
+Andhra Pradesh,78,42,24,5.53,40,Sandy,Rabi,26,73,358,Maize,2800,19
+Andhra Pradesh,53,28,69,5.83,27,Sandy,Rabi,29,90,243,Groundnut,1800,45
+Maharashtra,80,22,45,5.96,32,Sandy,Zaid,35,82,58,Rice,4200,22
+Andhra Pradesh,101,36,58,5.65,27,Loamy,Rabi,33,83,372,Wheat,3500,24
+Karnataka,93,62,32,6.77,39,Clay,Kharif,35,65,242,Cotton,1600,55
+Karnataka,105,29,27,6.17,26,Clay,Rabi,25,43,368,Cotton,1600,55
+Kerala,80,72,30,7.65,28,Clay,Zaid,21,58,384,Cotton,1600,55
+Kerala,49,75,76,5.62,62,Clay,Rabi,36,85,216,Groundnut,1800,45
+Tamil Nadu,58,38,32,6.97,63,Clay,Rabi,32,65,378,Groundnut,1800,45
+Andhra Pradesh,91,71,69,5.57,23,Clay,Rabi,19,78,62,Maize,2800,19
+Tamil Nadu,58,21,44,7.1,41,Clay,Rabi,29,61,84,Maize,2800,19
+Tamil Nadu,71,31,77,6.6,44,Clay,Zaid,29,47,349,Groundnut,1800,45
+Tamil Nadu,107,33,35,6.46,37,Loamy,Rabi,21,68,77,Maize,2800,19
+Tamil Nadu,89,27,27,6.05,54,Loamy,Zaid,33,55,76,Rice,4200,22
+Kerala,87,33,48,7.74,63,Clay,Kharif,31,45,246,Rice,4200,22
+Tamil Nadu,79,26,33,7.6,54,Sandy,Zaid,26,46,293,Cotton,1600,55
+Andhra Pradesh,99,34,58,6.76,41,Loamy,Rabi,19,71,308,Maize,2800,19
+Andhra Pradesh,68,65,63,7.24,53,Sandy,Kharif,35,80,63,Maize,2800,19
+Andhra Pradesh,116,30,39,6.01,67,Loamy,Zaid,30,63,138,Groundnut,1800,45
+Kerala,79,27,36,5.82,67,Clay,Rabi,28,47,199,Wheat,3500,24
+Kerala,100,78,27,7.11,42,Clay,Kharif,23,42,181,Cotton,1600,55
+Tamil Nadu,98,34,38,6.14,63,Loamy,Rabi,27,52,87,Maize,2800,19
+Karnataka,100,41,64,7.07,65,Clay,Rabi,32,85,69,Rice,4200,22
+Andhra Pradesh,89,28,38,6.25,35,Sandy,Rabi,22,67,76,Rice,4200,22
+Kerala,75,32,52,7.01,27,Clay,Kharif,18,61,239,Maize,2800,19
+Andhra Pradesh,65,47,77,6.66,41,Loamy,Kharif,26,86,164,Maize,2800,19
+Maharashtra,86,59,40,5.55,43,Loamy,Zaid,30,64,349,Wheat,3500,24
+Tamil Nadu,92,63,55,6.71,46,Sandy,Kharif,34,79,216,Groundnut,1800,45
+Tamil Nadu,47,23,29,7.08,66,Loamy,Kharif,34,89,64,Maize,2800,19
+Karnataka,91,27,61,7.51,57,Clay,Rabi,21,40,329,Rice,4200,22
+Maharashtra,54,75,68,7.99,69,Sandy,Kharif,18,54,267,Maize,2800,19
+Andhra Pradesh,83,60,68,5.8,60,Loamy,Zaid,36,57,146,Cotton,1600,55
+Kerala,42,39,54,5.59,37,Loamy,Zaid,22,50,148,Cotton,1600,55
+Maharashtra,46,31,79,7.42,67,Loamy,Rabi,21,85,255,Maize,2800,19
+Maharashtra,80,42,49,6.41,45,Clay,Rabi,34,60,356,Rice,4200,22
+Karnataka,52,63,23,7.86,60,Loamy,Zaid,21,52,171,Maize,2800,19
+Karnataka,102,66,57,7.38,65,Sandy,Rabi,20,79,347,Wheat,3500,24
+Karnataka,108,77,30,6.72,41,Sandy,Rabi,31,65,260,Rice,4200,22
+Andhra Pradesh,55,37,66,6.08,34,Sandy,Kharif,32,60,173,Rice,4200,22
+Kerala,114,34,44,6.19,42,Clay,Kharif,35,73,266,Cotton,1600,55
+Kerala,86,72,67,5.87,47,Clay,Zaid,23,88,397,Wheat,3500,24
+Kerala,74,50,44,7.41,69,Sandy,Kharif,27,67,185,Groundnut,1800,45
+Andhra Pradesh,88,23,73,6.95,55,Loamy,Kharif,20,89,233,Cotton,1600,55
+Andhra Pradesh,102,31,48,6.05,49,Loamy,Rabi,30,86,365,Cotton,1600,55
+Maharashtra,87,44,43,6.43,50,Clay,Kharif,27,77,215,Groundnut,1800,45
+Andhra Pradesh,102,45,30,7.03,29,Clay,Zaid,33,68,274,Maize,2800,19
+Kerala,94,22,23,5.97,65,Sandy,Kharif,36,60,393,Maize,2800,19
+Maharashtra,120,66,46,6.95,41,Sandy,Zaid,29,65,130,Cotton,1600,55
+Andhra Pradesh,109,40,39,6.27,67,Loamy,Kharif,29,41,364,Groundnut,1800,45
+Kerala,49,25,23,6.4,67,Clay,Rabi,29,42,82,Wheat,3500,24
+Kerala,40,25,49,7.19,19,Loamy,Kharif,34,68,262,Rice,4200,22
+Karnataka,107,57,49,6.75,16,Loamy,Rabi,29,75,364,Maize,2800,19
+Maharashtra,99,80,67,5.86,56,Loamy,Rabi,38,75,99,Wheat,3500,24
+Tamil Nadu,73,75,61,6.36,55,Loamy,Kharif,27,60,136,Maize,2800,19
+Tamil Nadu,118,20,47,7.12,46,Clay,Zaid,23,66,76,Rice,4200,22
+Andhra Pradesh,103,75,54,7.88,51,Loamy,Kharif,35,77,98,Rice,4200,22
+Andhra Pradesh,41,51,76,6.01,38,Clay,Rabi,18,75,363,Wheat,3500,24
+Andhra Pradesh,81,35,42,6.47,47,Clay,Rabi,21,47,87,Wheat,3500,24
+Karnataka,94,29,76,7.06,24,Loamy,Rabi,23,60,385,Wheat,3500,24
+Andhra Pradesh,40,45,80,6.09,45,Sandy,Rabi,25,67,162,Wheat,3500,24
+Karnataka,75,33,41,7.58,28,Loamy,Rabi,37,89,353,Wheat,3500,24
+Karnataka,107,61,43,5.56,23,Sandy,Zaid,36,80,153,Rice,4200,22
+Maharashtra,60,54,30,7.51,58,Clay,Zaid,26,52,346,Groundnut,1800,45
+Tamil Nadu,77,70,62,6.1,39,Loamy,Kharif,31,73,208,Wheat,3500,24
+Kerala,103,73,69,7.83,28,Loamy,Rabi,27,65,305,Cotton,1600,55
+Kerala,83,46,37,6.59,50,Clay,Rabi,19,55,231,Maize,2800,19
+Tamil Nadu,61,58,56,7.36,28,Sandy,Kharif,38,76,115,Wheat,3500,24
+Maharashtra,51,75,55,6.14,69,Clay,Kharif,21,84,346,Wheat,3500,24
+Karnataka,117,31,54,7.37,50,Clay,Kharif,18,53,142,Rice,4200,22
+Maharashtra,81,75,56,7.46,27,Clay,Zaid,37,87,337,Rice,4200,22
+Andhra Pradesh,117,64,61,6.46,30,Clay,Kharif,33,67,395,Wheat,3500,24
+Tamil Nadu,63,56,34,6.84,16,Sandy,Rabi,27,59,105,Maize,2800,19
+Karnataka,64,51,24,7.2,45,Clay,Rabi,31,83,145,Maize,2800,19
+Andhra Pradesh,83,51,58,7.26,40,Sandy,Rabi,27,63,237,Rice,4200,22
+Andhra Pradesh,90,56,39,6.53,60,Clay,Kharif,37,84,54,Rice,4200,22
+Andhra Pradesh,54,25,39,6.81,25,Clay,Rabi,18,80,328,Wheat,3500,24
+Tamil Nadu,81,37,53,6.53,23,Loamy,Zaid,29,82,370,Groundnut,1800,45
+Tamil Nadu,88,52,32,5.7,57,Sandy,Kharif,38,61,130,Cotton,1600,55
+Kerala,72,65,53,6.34,67,Sandy,Rabi,37,86,361,Cotton,1600,55
+Karnataka,111,21,23,7.95,37,Sandy,Kharif,30,42,304,Groundnut,1800,45
+Karnataka,61,33,64,6.77,53,Clay,Kharif,24,80,272,Rice,4200,22
+Karnataka,67,55,28,7.86,63,Sandy,Kharif,23,48,84,Cotton,1600,55
+Tamil Nadu,63,27,57,6.31,58,Clay,Kharif,18,56,194,Maize,2800,19
+Andhra Pradesh,85,20,22,6.1,67,Sandy,Zaid,33,51,168,Maize,2800,19
+Tamil Nadu,119,74,32,7.43,34,Clay,Rabi,22,44,70,Maize,2800,19
+Kerala,67,34,64,6.08,44,Sandy,Zaid,24,42,278,Cotton,1600,55
+Karnataka,113,45,71,5.75,62,Clay,Kharif,20,75,94,Rice,4200,22
+Karnataka,85,23,36,7.1,20,Loamy,Zaid,29,42,177,Groundnut,1800,45
+Tamil Nadu,110,45,55,6.71,17,Loamy,Rabi,28,70,88,Maize,2800,19
+Kerala,109,20,30,6.4,23,Sandy,Zaid,27,90,283,Wheat,3500,24
+Maharashtra,94,33,41,6.95,53,Clay,Zaid,26,43,247,Rice,4200,22
+Kerala,62,69,27,6.77,35,Loamy,Zaid,36,75,253,Cotton,1600,55
+Kerala,72,48,57,6.55,38,Clay,Rabi,34,52,262,Wheat,3500,24
+Tamil Nadu,57,35,58,5.52,49,Clay,Kharif,38,84,94,Cotton,1600,55
+Tamil Nadu,70,71,58,6.01,46,Loamy,Rabi,31,58,248,Groundnut,1800,45
+Tamil Nadu,118,71,68,6.45,59,Sandy,Zaid,25,77,360,Cotton,1600,55
+Karnataka,117,48,39,7.55,42,Loamy,Zaid,33,50,364,Groundnut,1800,45
+Andhra Pradesh,95,31,42,7.02,18,Clay,Zaid,28,43,136,Groundnut,1800,45
+Tamil Nadu,77,50,51,7.12,20,Loamy,Kharif,30,47,353,Wheat,3500,24
+Kerala,119,25,32,7.61,15,Sandy,Kharif,26,78,360,Maize,2800,19
+Tamil Nadu,46,79,44,6.28,45,Loamy,Zaid,31,56,189,Rice,4200,22
+Maharashtra,92,21,41,7.98,68,Sandy,Kharif,36,63,337,Wheat,3500,24
+Karnataka,58,48,39,7.7,53,Clay,Kharif,38,82,357,Wheat,3500,24
+Karnataka,51,26,35,7.71,70,Loamy,Rabi,26,79,69,Maize,2800,19
+Kerala,49,60,45,7.05,52,Clay,Rabi,21,69,253,Rice,4200,22
+Tamil Nadu,96,67,79,7.86,45,Loamy,Kharif,37,63,290,Maize,2800,19
+Karnataka,51,44,71,6.0,51,Loamy,Rabi,24,68,174,Groundnut,1800,45
+Andhra Pradesh,48,52,65,7.9,53,Loamy,Kharif,38,50,215,Cotton,1600,55
+Karnataka,93,23,62,5.72,65,Clay,Kharif,26,76,399,Groundnut,1800,45
+Tamil Nadu,58,39,48,6.33,25,Loamy,Zaid,24,44,156,Cotton,1600,55
+Tamil Nadu,91,62,76,5.99,58,Clay,Zaid,21,48,279,Rice,4200,22
+Andhra Pradesh,69,39,67,6.17,27,Loamy,Rabi,26,76,246,Groundnut,1800,45
+Karnataka,69,33,48,7.2,62,Clay,Rabi,23,62,377,Rice,4200,22
+Karnataka,60,51,42,7.69,36,Clay,Zaid,21,63,336,Maize,2800,19
+Kerala,54,21,43,5.52,66,Loamy,Kharif,22,69,191,Cotton,1600,55
+Maharashtra,110,38,74,7.48,31,Sandy,Kharif,31,67,118,Groundnut,1800,45
+Maharashtra,74,52,53,6.24,63,Clay,Rabi,26,70,210,Cotton,1600,55
+Tamil Nadu,84,22,57,5.99,49,Sandy,Rabi,23,46,185,Groundnut,1800,45
+Karnataka,49,22,77,6.72,60,Loamy,Rabi,32,60,303,Rice,4200,22
+Tamil Nadu,91,46,66,6.13,63,Clay,Zaid,25,67,269,Cotton,1600,55
+Karnataka,83,35,20,6.99,55,Sandy,Zaid,24,43,239,Rice,4200,22
+Karnataka,107,67,74,7.06,67,Clay,Rabi,29,59,115,Groundnut,1800,45
+Kerala,113,31,26,5.99,64,Loamy,Kharif,24,80,78,Wheat,3500,24
+Tamil Nadu,60,55,61,6.96,38,Clay,Zaid,26,86,350,Maize,2800,19
+Kerala,73,74,76,6.56,63,Sandy,Zaid,36,71,153,Maize,2800,19
+Maharashtra,79,32,22,6.94,67,Sandy,Zaid,33,43,67,Rice,4200,22
+Kerala,91,75,52,6.47,54,Sandy,Rabi,19,45,297,Maize,2800,19
+Karnataka,86,26,54,7.67,28,Sandy,Rabi,28,47,197,Maize,2800,19
+Maharashtra,93,51,21,6.62,62,Loamy,Rabi,19,47,133,Groundnut,1800,45
+Andhra Pradesh,89,40,45,6.29,29,Sandy,Rabi,25,48,60,Rice,4200,22
+Tamil Nadu,100,45,57,7.51,24,Clay,Rabi,36,64,128,Groundnut,1800,45
+Kerala,44,33,50,6.68,48,Loamy,Zaid,21,60,278,Groundnut,1800,45
+Andhra Pradesh,80,53,43,7.82,38,Clay,Kharif,35,51,375,Groundnut,1800,45
+Andhra Pradesh,106,77,48,7.49,59,Loamy,Kharif,25,47,248,Groundnut,1800,45
+Maharashtra,66,60,55,6.47,62,Loamy,Rabi,26,55,228,Maize,2800,19
+Andhra Pradesh,51,54,65,5.63,67,Clay,Zaid,31,59,136,Rice,4200,22
+Karnataka,58,56,76,7.94,66,Loamy,Rabi,37,59,296,Groundnut,1800,45
+Karnataka,96,47,37,7.11,50,Sandy,Rabi,25,80,52,Cotton,1600,55
+Tamil Nadu,104,39,34,5.87,20,Sandy,Rabi,25,72,347,Cotton,1600,55
+Kerala,88,58,78,5.68,61,Sandy,Zaid,26,50,242,Maize,2800,19
+Karnataka,46,29,65,6.74,48,Clay,Rabi,28,84,218,Rice,4200,22
+Maharashtra,100,28,77,5.64,56,Loamy,Zaid,19,74,158,Maize,2800,19
+Karnataka,88,68,26,6.77,60,Sandy,Zaid,32,46,201,Rice,4200,22
+Andhra Pradesh,61,28,54,7.4,68,Loamy,Zaid,20,80,82,Rice,4200,22
+Maharashtra,56,22,43,6.35,60,Clay,Rabi,26,47,330,Cotton,1600,55
+Andhra Pradesh,70,63,49,7.15,51,Loamy,Rabi,35,72,306,Cotton,1600,55
+Karnataka,85,34,43,7.44,18,Loamy,Rabi,22,42,265,Maize,2800,19
+Kerala,97,36,28,5.72,65,Clay,Kharif,33,53,219,Maize,2800,19
+Andhra Pradesh,82,34,27,5.74,49,Loamy,Kharif,34,82,216,Rice,4200,22
+Tamil Nadu,60,35,20,5.74,46,Loamy,Kharif,28,58,113,Maize,2800,19
+Tamil Nadu,51,79,72,6.32,63,Loamy,Zaid,34,71,256,Rice,4200,22
+Kerala,68,20,67,5.59,38,Loamy,Kharif,38,62,89,Maize,2800,19
+Andhra Pradesh,49,54,41,7.18,56,Loamy,Kharif,35,50,309,Groundnut,1800,45
+Tamil Nadu,119,23,20,5.7,32,Sandy,Rabi,34,65,370,Cotton,1600,55
+Andhra Pradesh,101,53,31,7.26,54,Loamy,Kharif,20,68,108,Maize,2800,19
+Kerala,48,45,58,6.03,61,Clay,Zaid,32,67,178,Wheat,3500,24
+Karnataka,47,20,50,7.75,59,Loamy,Zaid,35,65,399,Maize,2800,19
+Andhra Pradesh,48,60,36,6.67,35,Sandy,Rabi,18,75,287,Maize,2800,19
+Andhra Pradesh,53,80,26,6.01,41,Sandy,Rabi,37,50,93,Wheat,3500,24
+Maharashtra,106,67,30,5.9,19,Sandy,Zaid,26,77,330,Wheat,3500,24
+Andhra Pradesh,54,50,65,5.91,33,Loamy,Zaid,22,46,185,Wheat,3500,24
+Kerala,74,30,47,6.25,20,Clay,Zaid,35,51,188,Cotton,1600,55
+Andhra Pradesh,65,77,37,6.11,47,Loamy,Kharif,25,84,388,Wheat,3500,24
+Tamil Nadu,72,63,45,6.04,52,Clay,Zaid,26,76,274,Wheat,3500,24
+Maharashtra,105,22,34,7.37,33,Sandy,Rabi,31,75,78,Cotton,1600,55
+Maharashtra,40,63,44,6.96,66,Clay,Rabi,30,84,289,Maize,2800,19
+Maharashtra,106,65,48,7.3,54,Clay,Rabi,29,73,247,Groundnut,1800,45
+Andhra Pradesh,45,64,34,5.66,62,Clay,Zaid,24,61,221,Cotton,1600,55
+Kerala,43,35,25,6.24,25,Clay,Rabi,38,81,247,Groundnut,1800,45
+Karnataka,65,41,47,7.79,53,Clay,Rabi,20,71,321,Maize,2800,19
+Maharashtra,43,79,37,6.53,21,Clay,Kharif,29,43,283,Cotton,1600,55
+Kerala,81,43,24,6.45,35,Loamy,Rabi,23,89,66,Maize,2800,19
+Andhra Pradesh,45,44,31,6.12,44,Loamy,Zaid,26,52,398,Maize,2800,19
+Kerala,120,21,28,7.28,62,Clay,Rabi,20,49,396,Groundnut,1800,45
+Kerala,55,23,37,6.69,30,Loamy,Kharif,35,51,306,Wheat,3500,24
+Kerala,81,45,46,7.96,60,Loamy,Rabi,28,43,280,Rice,4200,22
+Kerala,87,33,28,7.2,35,Clay,Kharif,25,52,266,Rice,4200,22
+Andhra Pradesh,58,62,32,7.79,40,Loamy,Rabi,35,63,181,Rice,4200,22
+Tamil Nadu,60,28,61,6.94,37,Loamy,Kharif,31,76,74,Maize,2800,19
+Andhra Pradesh,82,27,34,7.94,23,Sandy,Rabi,23,81,384,Cotton,1600,55
+Karnataka,116,46,73,6.97,47,Loamy,Zaid,21,78,353,Wheat,3500,24
+Karnataka,117,46,63,6.77,27,Loamy,Kharif,21,44,97,Groundnut,1800,45
+Kerala,45,65,42,6.16,55,Sandy,Rabi,20,58,310,Rice,4200,22
+Kerala,117,67,44,7.44,52,Loamy,Zaid,23,68,285,Maize,2800,19
+Karnataka,111,57,61,7.6,41,Sandy,Rabi,34,49,241,Maize,2800,19
+Andhra Pradesh,43,25,35,5.76,32,Sandy,Kharif,19,79,247,Groundnut,1800,45
+Tamil Nadu,109,37,70,7.21,39,Sandy,Zaid,20,65,367,Cotton,1600,55
+Maharashtra,60,63,58,6.59,20,Sandy,Rabi,32,72,196,Groundnut,1800,45
+Maharashtra,72,58,80,6.95,19,Clay,Zaid,31,84,332,Cotton,1600,55
+Karnataka,57,35,40,5.74,15,Clay,Rabi,18,57,329,Cotton,1600,55
+Maharashtra,68,47,22,7.39,15,Loamy,Zaid,38,76,219,Cotton,1600,55
+Tamil Nadu,57,49,33,6.63,34,Loamy,Rabi,36,45,297,Maize,2800,19
+Maharashtra,103,40,79,8.0,62,Sandy,Rabi,24,63,184,Cotton,1600,55
+Tamil Nadu,105,26,30,7.68,44,Sandy,Rabi,32,84,329,Wheat,3500,24
+Karnataka,119,44,70,6.28,42,Clay,Zaid,27,66,86,Rice,4200,22
+Maharashtra,51,75,33,7.3,31,Loamy,Kharif,34,57,206,Rice,4200,22
+Karnataka,90,37,62,6.08,30,Sandy,Zaid,23,88,252,Wheat,3500,24
+Andhra Pradesh,55,55,55,7.53,55,Sandy,Rabi,24,44,122,Maize,2800,19
+Maharashtra,103,68,38,7.91,16,Loamy,Kharif,34,43,323,Cotton,1600,55
+Karnataka,116,43,39,6.15,25,Sandy,Rabi,19,51,79,Rice,4200,22
+Kerala,84,63,78,6.02,66,Loamy,Rabi,37,58,244,Groundnut,1800,45
+Kerala,105,53,41,6.51,32,Sandy,Zaid,25,40,124,Cotton,1600,55
+Karnataka,118,76,61,7.33,27,Clay,Kharif,20,62,160,Rice,4200,22
+Karnataka,120,59,74,7.06,42,Clay,Zaid,26,48,326,Maize,2800,19
+Kerala,41,54,46,6.21,54,Clay,Rabi,35,61,117,Cotton,1600,55
+Tamil Nadu,116,73,38,5.84,68,Loamy,Zaid,34,57,297,Cotton,1600,55
+Maharashtra,105,53,21,6.75,70,Loamy,Kharif,34,81,341,Cotton,1600,55
+Andhra Pradesh,57,28,51,7.09,49,Clay,Zaid,36,41,205,Cotton,1600,55
+Tamil Nadu,116,48,58,7.61,67,Clay,Rabi,34,88,287,Rice,4200,22
+Andhra Pradesh,87,57,27,6.99,26,Sandy,Rabi,20,43,112,Groundnut,1800,45
+Maharashtra,81,66,24,7.72,34,Loamy,Rabi,33,71,115,Rice,4200,22
+Maharashtra,86,24,52,7.59,37,Loamy,Zaid,22,53,346,Wheat,3500,24
+Kerala,98,58,57,7.13,50,Clay,Zaid,32,83,326,Wheat,3500,24
+Maharashtra,76,38,21,6.48,49,Sandy,Rabi,35,69,208,Cotton,1600,55
+Kerala,81,48,78,6.46,35,Clay,Rabi,35,59,333,Rice,4200,22
+Tamil Nadu,77,29,26,6.12,32,Loamy,Zaid,35,57,124,Cotton,1600,55
+Andhra Pradesh,114,51,78,6.06,18,Clay,Zaid,26,63,314,Maize,2800,19
+Maharashtra,65,68,71,7.06,61,Clay,Kharif,38,58,129,Maize,2800,19
+Andhra Pradesh,106,48,51,5.74,16,Loamy,Rabi,31,45,139,Cotton,1600,55
+Tamil Nadu,91,73,77,7.16,18,Clay,Kharif,36,76,271,Maize,2800,19
+Karnataka,76,44,74,7.59,28,Sandy,Zaid,35,56,154,Maize,2800,19
+Andhra Pradesh,41,66,54,6.39,67,Loamy,Rabi,31,75,362,Cotton,1600,55
+Andhra Pradesh,55,24,70,6.95,38,Sandy,Zaid,28,43,88,Groundnut,1800,45
+Andhra Pradesh,116,28,77,5.78,42,Sandy,Rabi,38,61,87,Maize,2800,19
+Kerala,78,79,78,5.63,60,Clay,Kharif,33,58,50,Maize,2800,19
+Andhra Pradesh,70,29,50,7.04,66,Loamy,Kharif,37,57,243,Groundnut,1800,45
+Maharashtra,42,65,41,7.61,27,Loamy,Zaid,22,52,348,Wheat,3500,24
+Kerala,105,72,32,5.67,32,Clay,Rabi,32,62,104,Cotton,1600,55
+Maharashtra,73,23,49,7.92,49,Loamy,Zaid,25,43,148,Rice,4200,22
+Karnataka,80,76,33,5.81,33,Clay,Rabi,27,90,209,Maize,2800,19
+Karnataka,57,32,30,5.95,53,Clay,Zaid,37,70,392,Rice,4200,22
+Karnataka,88,60,73,7.6,59,Clay,Zaid,22,68,347,Rice,4200,22
+Karnataka,69,36,76,5.88,35,Loamy,Rabi,23,52,368,Maize,2800,19
+Andhra Pradesh,86,72,80,6.38,69,Clay,Rabi,35,41,159,Cotton,1600,55
+Tamil Nadu,63,41,56,5.8,43,Loamy,Zaid,30,64,175,Groundnut,1800,45
+Maharashtra,79,66,55,6.24,16,Loamy,Kharif,35,45,186,Groundnut,1800,45
+Maharashtra,65,34,74,5.91,65,Clay,Rabi,30,68,308,Maize,2800,19
+Kerala,100,61,32,7.28,42,Loamy,Rabi,25,71,153,Wheat,3500,24
+Karnataka,46,49,69,7.96,57,Sandy,Kharif,36,64,223,Groundnut,1800,45
+Maharashtra,107,20,49,6.79,65,Clay,Kharif,32,56,361,Groundnut,1800,45
+Kerala,48,35,33,6.73,44,Clay,Kharif,23,83,261,Rice,4200,22
+Tamil Nadu,59,32,64,6.77,17,Loamy,Zaid,37,74,158,Maize,2800,19
+Andhra Pradesh,61,34,71,7.67,56,Loamy,Zaid,36,58,212,Rice,4200,22
+Kerala,96,32,23,6.76,50,Sandy,Rabi,25,80,330,Groundnut,1800,45
+Maharashtra,100,61,70,5.56,60,Sandy,Rabi,28,50,163,Groundnut,1800,45
+Kerala,50,32,47,5.52,23,Loamy,Zaid,22,81,189,Groundnut,1800,45
+Tamil Nadu,113,44,79,5.94,54,Sandy,Kharif,31,90,323,Cotton,1600,55
+Andhra Pradesh,59,40,62,6.79,59,Clay,Zaid,34,79,323,Cotton,1600,55
+Tamil Nadu,71,25,77,6.7,41,Loamy,Rabi,37,64,84,Wheat,3500,24
+Tamil Nadu,113,48,76,6.31,50,Sandy,Rabi,32,67,248,Maize,2800,19
+Tamil Nadu,109,34,33,6.26,33,Loamy,Rabi,25,65,226,Groundnut,1800,45
+Tamil Nadu,84,56,57,6.43,38,Sandy,Rabi,30,79,75,Rice,4200,22
+Andhra Pradesh,63,64,63,5.5,54,Sandy,Kharif,27,84,274,Rice,4200,22
+Andhra Pradesh,96,70,55,6.3,56,Loamy,Rabi,27,49,212,Cotton,1600,55
+Andhra Pradesh,61,46,46,6.94,67,Sandy,Rabi,27,63,254,Cotton,1600,55
+Andhra Pradesh,75,25,45,7.62,24,Loamy,Kharif,23,40,266,Wheat,3500,24
+Kerala,80,78,69,6.65,45,Clay,Zaid,20,79,128,Rice,4200,22
+Kerala,107,47,47,7.96,27,Sandy,Rabi,30,55,188,Rice,4200,22
+Karnataka,102,58,50,7.63,44,Loamy,Zaid,26,46,111,Rice,4200,22
+Maharashtra,84,22,66,7.15,28,Clay,Rabi,32,50,317,Cotton,1600,55
+Andhra Pradesh,90,33,67,6.59,60,Clay,Zaid,28,51,212,Rice,4200,22
+Maharashtra,47,59,71,6.18,64,Clay,Zaid,18,63,263,Cotton,1600,55
+Karnataka,85,60,70,7.18,57,Clay,Rabi,22,82,364,Maize,2800,19
+Andhra Pradesh,47,35,68,7.51,39,Sandy,Rabi,38,76,252,Wheat,3500,24
+Karnataka,47,52,51,5.9,63,Sandy,Kharif,38,57,208,Groundnut,1800,45
+Kerala,57,23,75,6.41,65,Loamy,Rabi,37,55,170,Groundnut,1800,45
+Tamil Nadu,51,79,74,7.75,22,Clay,Kharif,31,44,201,Groundnut,1800,45
+Karnataka,109,72,73,5.92,20,Sandy,Kharif,33,57,333,Cotton,1600,55
+Karnataka,88,28,57,6.99,46,Clay,Kharif,36,88,143,Wheat,3500,24
+Andhra Pradesh,79,67,31,6.77,27,Clay,Rabi,27,62,221,Cotton,1600,55
+Andhra Pradesh,75,53,37,7.55,19,Clay,Zaid,19,48,180,Groundnut,1800,45
+Andhra Pradesh,100,42,75,6.37,26,Loamy,Rabi,32,67,353,Wheat,3500,24
+Karnataka,57,70,70,6.65,40,Clay,Kharif,38,55,187,Maize,2800,19
+Tamil Nadu,99,28,22,6.68,38,Loamy,Zaid,22,43,81,Rice,4200,22
+Karnataka,99,29,68,7.13,51,Sandy,Kharif,28,90,374,Cotton,1600,55
+Karnataka,56,79,60,6.56,43,Sandy,Kharif,30,89,139,Groundnut,1800,45
+Kerala,114,27,47,7.83,42,Sandy,Rabi,27,84,364,Wheat,3500,24
+Tamil Nadu,54,65,73,6.09,37,Clay,Zaid,22,67,265,Maize,2800,19
+Andhra Pradesh,48,22,31,5.61,53,Loamy,Zaid,24,41,335,Rice,4200,22
+Kerala,100,66,58,6.74,54,Clay,Kharif,24,76,192,Cotton,1600,55
+Karnataka,119,74,77,6.6,31,Loamy,Zaid,21,87,146,Wheat,3500,24
+Karnataka,80,54,73,6.22,56,Clay,Rabi,24,69,55,Rice,4200,22
+Maharashtra,80,29,62,6.27,19,Clay,Rabi,32,55,324,Rice,4200,22
+Karnataka,102,36,30,7.28,66,Clay,Kharif,30,45,377,Maize,2800,19
+Karnataka,75,20,30,7.24,46,Clay,Zaid,19,66,284,Groundnut,1800,45
+Tamil Nadu,88,46,53,5.51,63,Sandy,Kharif,37,89,334,Rice,4200,22
+Karnataka,97,25,65,5.69,57,Sandy,Kharif,37,54,343,Cotton,1600,55
+Kerala,95,35,20,7.72,35,Sandy,Kharif,18,53,305,Groundnut,1800,45
+Kerala,113,75,79,6.27,47,Clay,Zaid,22,45,222,Groundnut,1800,45
+Maharashtra,51,63,53,6.95,15,Loamy,Zaid,27,51,325,Cotton,1600,55
+Tamil Nadu,85,49,61,7.87,39,Loamy,Rabi,21,62,58,Groundnut,1800,45
+Andhra Pradesh,90,74,21,7.99,22,Clay,Kharif,32,43,310,Cotton,1600,55
+Tamil Nadu,119,74,58,5.95,26,Sandy,Kharif,35,88,164,Maize,2800,19
+Tamil Nadu,73,24,69,6.34,24,Loamy,Rabi,22,85,248,Wheat,3500,24
+Andhra Pradesh,96,58,50,7.49,43,Clay,Zaid,24,41,86,Cotton,1600,55
+Tamil Nadu,114,46,72,6.33,23,Clay,Zaid,23,88,164,Groundnut,1800,45
+Kerala,110,44,72,6.03,43,Loamy,Rabi,30,79,59,Cotton,1600,55
+Karnataka,67,74,26,7.82,41,Clay,Zaid,36,48,281,Maize,2800,19
+Tamil Nadu,113,51,69,5.53,50,Loamy,Rabi,19,61,178,Cotton,1600,55
+Tamil Nadu,86,75,29,6.85,30,Clay,Rabi,34,61,146,Rice,4200,22
+Tamil Nadu,70,55,28,7.64,51,Clay,Zaid,21,88,187,Groundnut,1800,45
+Maharashtra,50,39,53,6.97,21,Clay,Zaid,38,79,153,Maize,2800,19
+Andhra Pradesh,117,29,78,6.61,67,Loamy,Zaid,18,51,169,Wheat,3500,24
+Andhra Pradesh,65,50,69,7.5,37,Clay,Zaid,27,71,172,Groundnut,1800,45
+Karnataka,50,73,39,6.06,33,Clay,Rabi,34,62,314,Maize,2800,19
+Tamil Nadu,114,28,74,6.06,67,Clay,Kharif,32,90,285,Cotton,1600,55
+Tamil Nadu,63,41,73,5.83,28,Sandy,Zaid,23,87,248,Groundnut,1800,45
+Maharashtra,80,58,28,6.96,38,Sandy,Kharif,35,47,244,Cotton,1600,55
+Karnataka,63,42,40,5.55,21,Sandy,Zaid,21,63,375,Maize,2800,19
+Tamil Nadu,79,24,24,5.52,30,Loamy,Kharif,26,47,246,Groundnut,1800,45
+Andhra Pradesh,86,62,73,6.01,52,Clay,Kharif,25,55,121,Maize,2800,19
+Maharashtra,57,58,52,7.79,67,Clay,Zaid,28,57,147,Cotton,1600,55
+Kerala,92,20,63,7.42,30,Loamy,Kharif,37,90,240,Rice,4200,22
+Maharashtra,113,73,36,6.73,45,Loamy,Kharif,24,63,96,Groundnut,1800,45
+Kerala,90,47,77,7.38,33,Loamy,Zaid,27,62,342,Rice,4200,22
+Karnataka,60,21,21,6.52,45,Clay,Zaid,30,42,238,Cotton,1600,55
+Kerala,71,78,58,6.54,37,Sandy,Kharif,32,74,60,Maize,2800,19
+Andhra Pradesh,42,69,31,7.24,20,Sandy,Zaid,31,80,348,Maize,2800,19
+Tamil Nadu,117,44,67,6.46,19,Clay,Rabi,36,52,174,Groundnut,1800,45
+Kerala,53,64,43,5.76,56,Clay,Kharif,30,50,365,Rice,4200,22
+Maharashtra,67,30,45,7.71,62,Sandy,Kharif,37,84,290,Groundnut,1800,45
+Kerala,51,28,56,7.35,54,Sandy,Kharif,20,52,269,Groundnut,1800,45
+Andhra Pradesh,87,44,52,5.66,64,Clay,Rabi,29,84,128,Rice,4200,22
+Maharashtra,117,60,72,5.86,25,Clay,Kharif,27,60,316,Rice,4200,22
+Tamil Nadu,58,52,63,5.68,46,Loamy,Kharif,22,90,398,Cotton,1600,55
+Andhra Pradesh,47,63,52,6.86,26,Loamy,Kharif,36,42,292,Groundnut,1800,45
+Maharashtra,70,70,30,7.85,66,Sandy,Zaid,29,73,160,Maize,2800,19
+Kerala,87,28,22,7.61,26,Loamy,Zaid,23,49,85,Groundnut,1800,45
+Karnataka,115,77,77,5.86,57,Sandy,Rabi,29,81,112,Maize,2800,19
+Karnataka,91,64,80,7.29,54,Clay,Zaid,35,87,339,Maize,2800,19
+Karnataka,79,63,80,7.03,16,Loamy,Rabi,23,65,279,Wheat,3500,24
+Karnataka,103,38,55,6.99,17,Clay,Rabi,27,62,106,Rice,4200,22
+Maharashtra,50,48,40,6.56,26,Loamy,Rabi,32,70,187,Maize,2800,19
+Maharashtra,49,33,71,7.63,49,Loamy,Zaid,23,50,173,Rice,4200,22
+Maharashtra,110,52,70,6.57,15,Loamy,Rabi,18,55,123,Cotton,1600,55
+Karnataka,57,52,43,7.46,25,Loamy,Rabi,22,85,138,Wheat,3500,24
+Tamil Nadu,103,72,38,7.16,29,Clay,Kharif,32,63,342,Cotton,1600,55
+Maharashtra,75,79,75,7.92,36,Clay,Kharif,24,76,221,Cotton,1600,55
+Karnataka,53,23,63,7.16,52,Sandy,Rabi,21,64,160,Cotton,1600,55
+Kerala,43,69,45,6.33,37,Clay,Rabi,35,40,262,Groundnut,1800,45
+Maharashtra,67,26,26,7.29,65,Sandy,Kharif,35,44,371,Groundnut,1800,45
+Maharashtra,105,70,66,7.21,50,Sandy,Kharif,33,56,136,Wheat,3500,24
+Andhra Pradesh,43,56,48,5.97,48,Sandy,Kharif,26,64,389,Maize,2800,19
+Andhra Pradesh,45,25,37,6.02,56,Clay,Rabi,24,65,278,Rice,4200,22
+Andhra Pradesh,82,31,62,7.71,66,Loamy,Kharif,35,58,316,Rice,4200,22
+Tamil Nadu,53,36,60,7.7,24,Sandy,Rabi,20,77,85,Groundnut,1800,45
+Andhra Pradesh,44,64,32,7.7,37,Sandy,Kharif,19,76,336,Cotton,1600,55
+Maharashtra,118,27,47,7.36,22,Loamy,Rabi,20,52,341,Cotton,1600,55
+Tamil Nadu,87,51,70,6.99,17,Loamy,Zaid,35,43,390,Maize,2800,19
+Tamil Nadu,105,47,29,5.7,45,Loamy,Rabi,21,68,172,Rice,4200,22
+Maharashtra,59,20,55,7.45,46,Loamy,Rabi,24,42,99,Groundnut,1800,45
+Maharashtra,82,31,64,6.41,46,Sandy,Kharif,35,81,354,Cotton,1600,55
+Kerala,112,25,42,6.03,49,Sandy,Zaid,38,54,221,Cotton,1600,55
+Andhra Pradesh,95,45,38,6.14,70,Clay,Rabi,25,48,276,Cotton,1600,55
+Maharashtra,110,48,69,6.83,47,Sandy,Kharif,31,48,73,Rice,4200,22
+Kerala,73,66,63,7.15,69,Sandy,Rabi,38,83,59,Wheat,3500,24
+Karnataka,98,46,36,6.03,29,Sandy,Rabi,24,53,252,Maize,2800,19
+Maharashtra,79,67,29,6.27,65,Loamy,Rabi,36,79,209,Maize,2800,19
+Andhra Pradesh,109,20,31,7.82,33,Sandy,Zaid,24,76,170,Maize,2800,19
+Karnataka,76,60,26,6.73,70,Loamy,Rabi,37,64,303,Groundnut,1800,45
+Karnataka,106,34,78,6.28,51,Sandy,Rabi,29,43,270,Rice,4200,22
+Tamil Nadu,50,38,70,7.65,16,Loamy,Zaid,32,74,225,Maize,2800,19
+Kerala,41,79,22,6.31,52,Sandy,Rabi,20,90,376,Cotton,1600,55
+Andhra Pradesh,67,30,67,5.72,28,Sandy,Zaid,24,77,152,Groundnut,1800,45
+Tamil Nadu,47,58,80,7.83,28,Loamy,Kharif,22,44,87,Cotton,1600,55
+Kerala,103,55,41,7.13,21,Clay,Rabi,23,62,196,Maize,2800,19
+Maharashtra,52,30,64,7.4,37,Sandy,Rabi,34,53,176,Wheat,3500,24
+Maharashtra,87,60,79,7.93,70,Sandy,Rabi,34,74,201,Groundnut,1800,45
+Karnataka,50,31,61,7.92,25,Clay,Rabi,26,83,88,Groundnut,1800,45
+Maharashtra,61,68,57,7.97,20,Sandy,Zaid,22,49,154,Groundnut,1800,45
+Andhra Pradesh,72,35,32,7.34,17,Clay,Rabi,19,80,165,Cotton,1600,55
+Karnataka,76,63,41,7.71,45,Sandy,Rabi,28,53,205,Rice,4200,22
+Karnataka,98,46,41,6.54,69,Loamy,Zaid,23,68,146,Wheat,3500,24
+Tamil Nadu,55,46,47,6.5,29,Clay,Rabi,34,53,271,Wheat,3500,24
+Maharashtra,62,41,51,5.72,28,Sandy,Kharif,26,52,286,Wheat,3500,24
+Kerala,89,68,47,7.39,30,Clay,Rabi,30,59,59,Rice,4200,22
+Maharashtra,97,72,46,5.83,62,Clay,Rabi,27,78,227,Cotton,1600,55
+Maharashtra,47,35,20,6.72,42,Sandy,Zaid,18,43,211,Wheat,3500,24
+Andhra Pradesh,73,78,59,7.84,28,Clay,Kharif,20,83,86,Maize,2800,19
+Maharashtra,109,21,67,6.18,31,Sandy,Zaid,26,59,68,Maize,2800,19
+Andhra Pradesh,77,59,27,5.65,32,Sandy,Rabi,22,76,91,Maize,2800,19
+Tamil Nadu,66,39,70,6.74,39,Sandy,Zaid,31,70,247,Maize,2800,19
+Tamil Nadu,64,62,63,6.99,63,Loamy,Kharif,31,49,224,Wheat,3500,24
+Karnataka,50,67,20,7.46,65,Clay,Rabi,28,46,143,Groundnut,1800,45
+Maharashtra,83,31,57,6.03,20,Loamy,Kharif,34,76,274,Rice,4200,22
+Andhra Pradesh,118,70,66,6.08,44,Sandy,Kharif,37,42,176,Maize,2800,19
+Kerala,52,67,24,7.57,61,Clay,Zaid,21,82,182,Cotton,1600,55
+Maharashtra,54,57,74,5.79,39,Clay,Zaid,34,71,378,Maize,2800,19
+Tamil Nadu,100,33,75,5.74,41,Clay,Rabi,33,59,231,Cotton,1600,55
+Maharashtra,117,76,33,7.42,50,Clay,Rabi,31,67,271,Maize,2800,19
+Kerala,43,58,57,7.12,20,Loamy,Rabi,28,55,111,Rice,4200,22
+Karnataka,82,30,22,6.93,63,Loamy,Rabi,38,48,81,Groundnut,1800,45
+Karnataka,119,74,49,7.47,23,Clay,Zaid,32,51,336,Maize,2800,19
+Maharashtra,100,50,56,6.13,31,Loamy,Zaid,38,48,184,Rice,4200,22
+Tamil Nadu,44,24,54,7.4,61,Sandy,Kharif,36,71,81,Maize,2800,19
+Tamil Nadu,60,67,56,6.5,32,Clay,Zaid,34,77,208,Maize,2800,19
+Andhra Pradesh,50,20,55,7.58,29,Sandy,Kharif,35,72,264,Groundnut,1800,45
+Tamil Nadu,48,68,47,6.95,24,Clay,Zaid,28,76,279,Cotton,1600,55
+Kerala,102,42,55,7.62,26,Sandy,Kharif,32,81,180,Cotton,1600,55
+Andhra Pradesh,69,25,64,7.61,34,Loamy,Kharif,19,63,328,Rice,4200,22
+Karnataka,45,71,74,6.31,63,Loamy,Rabi,27,61,342,Cotton,1600,55
+Karnataka,57,27,29,6.16,33,Sandy,Rabi,37,87,240,Cotton,1600,55
+Maharashtra,57,36,28,7.36,20,Sandy,Zaid,23,40,252,Cotton,1600,55
+Andhra Pradesh,62,44,56,7.14,17,Clay,Rabi,24,54,356,Wheat,3500,24
+Karnataka,115,54,46,5.95,68,Clay,Kharif,35,69,125,Groundnut,1800,45
+Andhra Pradesh,60,72,62,7.69,51,Loamy,Zaid,26,63,342,Wheat,3500,24
+Maharashtra,62,67,52,7.04,20,Sandy,Rabi,37,57,312,Wheat,3500,24
+Andhra Pradesh,107,31,30,5.7,60,Clay,Rabi,32,82,140,Cotton,1600,55
+Kerala,108,59,80,5.76,26,Loamy,Zaid,35,42,329,Cotton,1600,55
+Maharashtra,70,69,57,6.13,23,Loamy,Kharif,37,64,83,Rice,4200,22
+Maharashtra,100,63,64,7.29,15,Loamy,Zaid,21,67,104,Wheat,3500,24
+Kerala,74,51,71,6.53,36,Loamy,Zaid,31,78,302,Wheat,3500,24
+Kerala,118,38,31,7.61,52,Sandy,Rabi,38,49,305,Rice,4200,22
+Maharashtra,97,46,65,7.79,27,Clay,Zaid,26,85,375,Cotton,1600,55
+Tamil Nadu,96,72,24,5.56,15,Sandy,Rabi,24,79,86,Maize,2800,19
+Andhra Pradesh,66,68,48,5.83,59,Sandy,Zaid,31,71,142,Wheat,3500,24
+Tamil Nadu,54,57,26,7.47,18,Loamy,Kharif,20,56,294,Maize,2800,19
+Maharashtra,41,44,68,7.64,22,Sandy,Zaid,30,60,316,Groundnut,1800,45
+Kerala,100,41,51,7.63,31,Clay,Zaid,26,78,84,Groundnut,1800,45
+Kerala,98,56,38,7.7,21,Clay,Kharif,35,57,228,Cotton,1600,55
+Karnataka,62,72,28,5.5,35,Sandy,Zaid,20,52,159,Maize,2800,19
+Maharashtra,60,36,33,5.71,48,Loamy,Rabi,38,40,247,Maize,2800,19
+Kerala,48,43,67,5.93,17,Loamy,Kharif,37,67,189,Groundnut,1800,45
+Andhra Pradesh,104,27,69,5.63,50,Loamy,Zaid,20,63,370,Groundnut,1800,45
+Kerala,55,35,26,8.0,33,Sandy,Rabi,19,59,201,Maize,2800,19
+Kerala,111,45,50,6.15,56,Sandy,Kharif,26,90,100,Wheat,3500,24
+Kerala,93,65,60,7.32,28,Loamy,Kharif,30,48,390,Groundnut,1800,45
+Maharashtra,95,62,76,5.81,68,Clay,Rabi,19,66,322,Cotton,1600,55
+Kerala,62,68,49,5.51,51,Clay,Rabi,32,48,225,Groundnut,1800,45
+Karnataka,67,75,35,7.57,69,Sandy,Zaid,18,44,225,Cotton,1600,55
+Kerala,82,25,69,7.04,37,Clay,Kharif,25,75,54,Groundnut,1800,45
+Kerala,46,47,44,7.24,28,Sandy,Rabi,37,83,366,Cotton,1600,55
+Andhra Pradesh,100,29,65,7.86,55,Sandy,Kharif,21,78,356,Cotton,1600,55
+Andhra Pradesh,120,63,20,6.76,62,Clay,Zaid,35,74,67,Cotton,1600,55
+Tamil Nadu,100,66,66,6.75,63,Clay,Zaid,29,65,97,Wheat,3500,24
+Karnataka,119,62,30,6.85,48,Sandy,Rabi,29,70,76,Groundnut,1800,45
+Karnataka,90,42,56,6.33,60,Loamy,Zaid,34,55,288,Groundnut,1800,45
+Tamil Nadu,53,44,38,7.19,66,Sandy,Kharif,37,78,180,Maize,2800,19
+Tamil Nadu,76,63,68,5.94,21,Sandy,Kharif,20,42,245,Wheat,3500,24
+Andhra Pradesh,98,41,20,5.66,20,Loamy,Kharif,22,61,59,Rice,4200,22
+Kerala,40,47,78,6.31,34,Loamy,Kharif,23,60,352,Wheat,3500,24
+Maharashtra,83,57,60,5.9,59,Sandy,Zaid,25,42,316,Rice,4200,22
+Maharashtra,41,26,34,7.17,33,Sandy,Kharif,30,86,397,Rice,4200,22
+Karnataka,51,33,49,7.62,70,Sandy,Kharif,35,59,349,Rice,4200,22
+Karnataka,81,49,53,6.98,65,Sandy,Rabi,24,49,307,Cotton,1600,55
+Andhra Pradesh,90,67,20,7.29,58,Loamy,Kharif,30,43,185,Wheat,3500,24
+Karnataka,100,34,36,6.62,59,Sandy,Rabi,20,90,237,Maize,2800,19
+Maharashtra,73,73,74,6.39,42,Sandy,Kharif,26,75,205,Groundnut,1800,45
+Kerala,97,44,20,7.08,43,Loamy,Kharif,36,90,144,Wheat,3500,24
+Kerala,99,27,75,6.68,22,Clay,Rabi,31,57,389,Rice,4200,22
+Andhra Pradesh,110,22,40,6.13,68,Loamy,Rabi,22,84,235,Groundnut,1800,45
+Maharashtra,43,67,77,6.47,21,Loamy,Rabi,31,41,200,Rice,4200,22
+Andhra Pradesh,111,47,64,6.13,21,Sandy,Rabi,37,86,70,Maize,2800,19
+Karnataka,45,25,40,6.42,30,Clay,Rabi,38,40,273,Maize,2800,19
+Tamil Nadu,47,51,73,5.68,56,Sandy,Zaid,19,63,400,Cotton,1600,55
+Maharashtra,48,61,57,5.51,36,Clay,Zaid,37,44,250,Cotton,1600,55
+Kerala,80,60,61,7.37,34,Clay,Rabi,25,66,142,Wheat,3500,24
+Maharashtra,95,21,71,7.97,62,Clay,Kharif,25,75,198,Maize,2800,19
+Tamil Nadu,75,80,26,7.14,56,Sandy,Zaid,31,61,142,Groundnut,1800,45
+Karnataka,101,24,39,7.14,64,Sandy,Zaid,36,40,210,Wheat,3500,24
+Tamil Nadu,52,30,38,5.84,33,Loamy,Zaid,30,58,174,Wheat,3500,24
+Karnataka,120,34,72,6.75,59,Loamy,Rabi,20,78,189,Groundnut,1800,45
+Karnataka,76,67,35,7.38,61,Loamy,Rabi,24,81,205,Cotton,1600,55
+Andhra Pradesh,63,34,60,6.96,39,Clay,Kharif,24,40,164,Rice,4200,22
+Tamil Nadu,103,33,65,5.7,41,Loamy,Zaid,18,57,276,Wheat,3500,24
+Andhra Pradesh,90,68,79,7.22,61,Clay,Zaid,24,62,179,Rice,4200,22
+Maharashtra,42,31,29,6.55,55,Loamy,Zaid,33,75,173,Maize,2800,19
+Karnataka,89,41,29,6.35,47,Loamy,Zaid,34,84,152,Cotton,1600,55
+Karnataka,43,65,64,5.67,66,Loamy,Rabi,36,41,128,Cotton,1600,55
+Karnataka,49,72,48,7.69,44,Sandy,Zaid,36,82,254,Maize,2800,19
+Tamil Nadu,110,57,72,6.35,33,Loamy,Zaid,28,45,218,Maize,2800,19
+Maharashtra,64,50,64,7.82,58,Sandy,Zaid,20,47,175,Maize,2800,19
+Tamil Nadu,76,48,75,7.69,24,Sandy,Rabi,32,66,377,Rice,4200,22
+Karnataka,42,63,52,7.38,26,Sandy,Kharif,27,42,331,Maize,2800,19
+Kerala,103,30,39,5.71,55,Loamy,Rabi,36,40,258,Groundnut,1800,45
+Kerala,118,53,60,7.51,46,Sandy,Zaid,21,56,161,Maize,2800,19
+Kerala,53,41,25,5.53,62,Sandy,Rabi,32,54,370,Maize,2800,19
+Andhra Pradesh,64,25,26,6.63,53,Loamy,Rabi,31,51,203,Wheat,3500,24
+Tamil Nadu,104,65,28,7.43,56,Loamy,Rabi,31,59,339,Rice,4200,22
+Karnataka,58,49,78,6.84,30,Clay,Zaid,31,90,198,Cotton,1600,55
+Karnataka,101,71,44,7.76,60,Clay,Zaid,30,81,230,Wheat,3500,24
+Andhra Pradesh,67,21,21,7.57,34,Clay,Kharif,18,71,50,Rice,4200,22
+Karnataka,102,33,41,5.52,66,Clay,Zaid,20,88,315,Groundnut,1800,45
+Kerala,112,32,65,7.99,51,Sandy,Kharif,38,43,144,Groundnut,1800,45
+Tamil Nadu,50,69,41,6.52,48,Loamy,Rabi,25,45,174,Cotton,1600,55
+Andhra Pradesh,56,21,36,6.46,17,Sandy,Kharif,38,58,333,Cotton,1600,55
+Tamil Nadu,96,35,79,6.77,69,Loamy,Kharif,27,67,71,Maize,2800,19
+Kerala,95,73,36,6.56,54,Sandy,Zaid,36,63,357,Wheat,3500,24
+Maharashtra,88,35,40,6.81,55,Loamy,Rabi,26,43,175,Cotton,1600,55
+Tamil Nadu,81,54,72,5.77,48,Loamy,Zaid,25,46,54,Wheat,3500,24
+Kerala,73,60,56,6.61,26,Sandy,Rabi,24,89,335,Rice,4200,22
+Andhra Pradesh,85,60,23,7.65,39,Clay,Zaid,26,82,146,Cotton,1600,55
+Maharashtra,94,79,60,7.63,64,Sandy,Rabi,25,66,355,Wheat,3500,24
+Karnataka,114,28,36,6.83,51,Clay,Zaid,27,52,211,Wheat,3500,24
+Tamil Nadu,70,35,20,6.13,39,Loamy,Zaid,33,42,199,Maize,2800,19
+Maharashtra,59,65,36,7.79,31,Sandy,Rabi,27,85,108,Maize,2800,19
+Kerala,99,33,79,7.86,29,Sandy,Zaid,38,48,286,Rice,4200,22
+Kerala,41,23,53,7.24,22,Loamy,Zaid,29,89,266,Maize,2800,19
+Tamil Nadu,82,38,61,6.23,50,Sandy,Zaid,29,82,368,Rice,4200,22
+Maharashtra,52,28,22,6.11,36,Loamy,Kharif,19,60,146,Maize,2800,19
+Karnataka,52,79,32,6.28,60,Clay,Rabi,26,50,392,Groundnut,1800,45
+Andhra Pradesh,46,68,65,5.55,69,Clay,Zaid,33,56,326,Maize,2800,19
+Kerala,98,38,44,6.16,62,Sandy,Kharif,29,74,338,Groundnut,1800,45
+Karnataka,106,62,80,7.9,49,Sandy,Zaid,32,56,259,Rice,4200,22
+Karnataka,87,47,24,7.59,34,Sandy,Zaid,31,43,219,Maize,2800,19
+Kerala,42,35,72,5.79,39,Clay,Zaid,33,73,263,Groundnut,1800,45
+Maharashtra,100,62,34,6.14,60,Loamy,Kharif,33,71,325,Groundnut,1800,45
+Karnataka,109,45,57,5.97,67,Sandy,Zaid,30,59,352,Groundnut,1800,45
+Maharashtra,89,79,58,7.9,35,Sandy,Rabi,37,76,259,Cotton,1600,55
+Andhra Pradesh,46,28,63,7.0,64,Sandy,Rabi,29,76,237,Wheat,3500,24
+Andhra Pradesh,81,29,28,7.92,19,Loamy,Zaid,37,53,207,Cotton,1600,55
+Tamil Nadu,65,57,33,7.94,60,Sandy,Kharif,27,90,318,Wheat,3500,24
+Andhra Pradesh,45,59,62,5.98,46,Loamy,Zaid,37,60,249,Maize,2800,19
+Kerala,53,26,22,7.56,23,Sandy,Rabi,24,87,242,Cotton,1600,55
+Tamil Nadu,82,56,67,7.46,49,Sandy,Rabi,28,62,342,Maize,2800,19
+Andhra Pradesh,66,51,33,6.11,16,Clay,Rabi,25,50,124,Maize,2800,19
+Andhra Pradesh,115,53,35,6.14,50,Clay,Kharif,20,40,311,Groundnut,1800,45
+Kerala,83,60,39,6.8,70,Clay,Kharif,23,53,241,Cotton,1600,55
+Maharashtra,75,42,41,7.27,43,Loamy,Rabi,24,72,167,Cotton,1600,55
+Kerala,80,47,34,7.19,61,Clay,Zaid,36,71,96,Wheat,3500,24
+Maharashtra,85,70,60,6.46,37,Clay,Zaid,28,47,89,Maize,2800,19
+Tamil Nadu,108,60,23,6.23,53,Loamy,Rabi,18,43,210,Rice,4200,22
+Andhra Pradesh,95,50,24,6.35,69,Clay,Rabi,28,45,385,Groundnut,1800,45
+Tamil Nadu,79,40,34,5.54,61,Loamy,Zaid,30,59,307,Groundnut,1800,45
+Andhra Pradesh,104,56,70,7.78,69,Clay,Zaid,23,50,326,Maize,2800,19
+Karnataka,47,62,33,6.09,34,Loamy,Kharif,26,88,239,Groundnut,1800,45
+Andhra Pradesh,81,27,58,7.05,48,Loamy,Zaid,32,40,209,Groundnut,1800,45
+Andhra Pradesh,96,24,41,6.75,59,Clay,Kharif,20,77,95,Groundnut,1800,45
+Kerala,82,55,45,5.8,62,Clay,Rabi,21,85,132,Wheat,3500,24
+Karnataka,55,47,20,5.9,67,Sandy,Rabi,33,62,70,Groundnut,1800,45
+Maharashtra,47,75,76,6.21,53,Loamy,Kharif,27,56,108,Cotton,1600,55
+Andhra Pradesh,80,51,39,7.55,54,Clay,Zaid,31,65,252,Wheat,3500,24
+Andhra Pradesh,120,78,21,7.8,24,Loamy,Rabi,26,75,137,Wheat,3500,24
+Tamil Nadu,56,44,67,7.98,23,Sandy,Zaid,36,86,310,Cotton,1600,55
+Andhra Pradesh,69,31,71,5.75,46,Clay,Kharif,31,90,353,Groundnut,1800,45
+Andhra Pradesh,100,73,26,7.7,55,Sandy,Zaid,18,81,278,Rice,4200,22
+Kerala,85,42,60,7.19,68,Clay,Kharif,38,74,299,Wheat,3500,24
+Maharashtra,109,31,47,6.27,51,Loamy,Zaid,31,80,223,Cotton,1600,55
+Tamil Nadu,100,43,75,7.64,44,Clay,Zaid,23,58,52,Rice,4200,22
+Andhra Pradesh,118,32,27,6.57,56,Sandy,Zaid,21,77,360,Cotton,1600,55
+Andhra Pradesh,103,31,74,7.5,37,Loamy,Kharif,23,42,160,Rice,4200,22
+Tamil Nadu,53,73,80,7.37,51,Sandy,Rabi,29,60,295,Maize,2800,19
+Maharashtra,76,65,35,5.52,67,Sandy,Kharif,36,49,310,Rice,4200,22
+Kerala,54,56,25,6.63,53,Loamy,Rabi,22,82,221,Rice,4200,22
+Tamil Nadu,61,35,21,7.55,58,Clay,Zaid,36,68,86,Cotton,1600,55
+Karnataka,92,74,21,6.76,58,Sandy,Kharif,30,43,364,Rice,4200,22
+Kerala,55,48,25,6.12,19,Clay,Zaid,18,83,255,Wheat,3500,24
+Karnataka,50,42,54,5.87,32,Clay,Zaid,27,42,199,Maize,2800,19
+Andhra Pradesh,101,79,37,5.64,50,Sandy,Rabi,35,66,208,Groundnut,1800,45
+Karnataka,82,66,63,5.63,56,Sandy,Kharif,24,75,225,Cotton,1600,55
+Maharashtra,105,79,22,6.71,53,Loamy,Rabi,22,77,350,Groundnut,1800,45
+Andhra Pradesh,75,32,75,5.84,62,Sandy,Rabi,31,76,254,Wheat,3500,24
+Maharashtra,53,49,56,6.76,56,Clay,Rabi,20,68,304,Maize,2800,19
+Kerala,61,58,36,7.57,30,Loamy,Kharif,31,54,326,Cotton,1600,55
+Karnataka,50,71,32,6.54,20,Loamy,Zaid,23,69,91,Cotton,1600,55
+Tamil Nadu,47,71,40,6.69,67,Sandy,Rabi,38,43,73,Wheat,3500,24
+Maharashtra,75,67,77,6.62,19,Sandy,Zaid,23,78,221,Rice,4200,22
+Tamil Nadu,100,61,33,7.76,30,Clay,Kharif,25,46,289,Maize,2800,19
+Maharashtra,91,60,25,7.01,58,Loamy,Rabi,22,81,253,Rice,4200,22
+Andhra Pradesh,114,52,51,6.03,54,Clay,Rabi,25,45,182,Rice,4200,22
+Maharashtra,113,76,42,7.22,67,Sandy,Rabi,28,52,359,Cotton,1600,55
+Andhra Pradesh,78,52,43,6.39,48,Sandy,Zaid,31,40,195,Rice,4200,22
+Andhra Pradesh,49,27,37,7.09,25,Sandy,Zaid,29,87,292,Cotton,1600,55
+Andhra Pradesh,69,30,47,5.59,59,Loamy,Rabi,28,80,94,Groundnut,1800,45
+Maharashtra,62,28,76,5.77,49,Sandy,Zaid,23,50,100,Rice,4200,22
+Maharashtra,98,32,28,6.56,47,Loamy,Kharif,37,45,315,Cotton,1600,55
+Tamil Nadu,81,53,71,5.52,69,Loamy,Rabi,20,68,166,Maize,2800,19
+Andhra Pradesh,42,46,74,5.95,61,Sandy,Kharif,35,79,174,Rice,4200,22
+Tamil Nadu,44,62,72,6.53,29,Sandy,Zaid,32,75,191,Wheat,3500,24
+Andhra Pradesh,86,64,26,5.71,25,Loamy,Kharif,30,53,391,Maize,2800,19
+Kerala,94,52,31,7.23,23,Sandy,Kharif,23,89,400,Maize,2800,19
+Kerala,98,58,52,6.26,40,Clay,Kharif,23,53,97,Maize,2800,19
+Karnataka,80,32,62,7.02,62,Clay,Zaid,32,76,226,Wheat,3500,24
+Maharashtra,70,36,32,7.33,45,Sandy,Rabi,21,85,280,Groundnut,1800,45
+Maharashtra,77,60,26,7.78,35,Clay,Kharif,23,57,191,Rice,4200,22
+Andhra Pradesh,85,26,49,5.62,31,Sandy,Zaid,22,51,371,Cotton,1600,55
+Maharashtra,67,46,62,7.13,28,Loamy,Rabi,38,49,357,Groundnut,1800,45
+Karnataka,77,27,55,6.14,66,Loamy,Kharif,22,78,311,Rice,4200,22
+Andhra Pradesh,44,67,59,7.91,35,Sandy,Rabi,32,60,296,Rice,4200,22
+Tamil Nadu,108,32,53,6.89,37,Loamy,Zaid,24,86,95,Wheat,3500,24
+Maharashtra,59,78,77,6.0,16,Loamy,Rabi,28,88,360,Wheat,3500,24
+Maharashtra,52,35,30,7.87,45,Loamy,Kharif,29,59,368,Rice,4200,22
+Kerala,110,23,60,7.58,57,Sandy,Zaid,31,73,389,Groundnut,1800,45
+Andhra Pradesh,103,51,29,5.89,20,Loamy,Kharif,32,67,293,Wheat,3500,24
+Andhra Pradesh,56,76,48,6.13,59,Clay,Rabi,25,69,354,Wheat,3500,24
+Karnataka,113,30,60,6.8,33,Clay,Zaid,25,49,51,Rice,4200,22
+Maharashtra,62,52,72,5.68,20,Clay,Kharif,36,75,239,Wheat,3500,24
+Tamil Nadu,62,76,52,6.74,60,Sandy,Kharif,23,88,121,Rice,4200,22
+Tamil Nadu,84,46,33,6.16,30,Clay,Kharif,37,81,175,Rice,4200,22
+Andhra Pradesh,113,62,69,7.9,28,Sandy,Kharif,30,40,179,Maize,2800,19
+Maharashtra,47,73,64,7.7,44,Clay,Kharif,27,80,147,Maize,2800,19
+Andhra Pradesh,115,48,52,5.93,49,Clay,Rabi,26,90,51,Maize,2800,19
+Karnataka,111,34,71,7.63,34,Loamy,Rabi,32,48,127,Maize,2800,19
+Karnataka,54,42,46,6.8,40,Sandy,Zaid,31,66,342,Rice,4200,22
+Andhra Pradesh,93,59,30,6.69,47,Sandy,Rabi,34,47,106,Groundnut,1800,45
+Andhra Pradesh,81,37,38,7.71,70,Clay,Zaid,37,46,377,Rice,4200,22
+Karnataka,67,59,60,6.09,36,Loamy,Kharif,26,51,241,Groundnut,1800,45
+Andhra Pradesh,104,78,35,5.51,60,Loamy,Rabi,36,53,205,Groundnut,1800,45
+Kerala,98,60,54,6.02,27,Clay,Kharif,29,53,107,Maize,2800,19
+Andhra Pradesh,75,27,64,5.8,67,Clay,Rabi,37,46,204,Maize,2800,19
+Maharashtra,90,56,31,7.96,69,Loamy,Rabi,29,82,386,Rice,4200,22
+Kerala,77,40,24,5.97,28,Sandy,Zaid,18,48,204,Wheat,3500,24
+Andhra Pradesh,70,38,23,7.18,61,Loamy,Rabi,31,73,104,Groundnut,1800,45
+Maharashtra,43,73,20,7.12,18,Clay,Kharif,36,44,115,Maize,2800,19
+Karnataka,102,68,56,6.64,24,Loamy,Kharif,32,81,178,Wheat,3500,24
+Maharashtra,75,47,70,7.11,63,Clay,Kharif,26,88,137,Maize,2800,19
+Tamil Nadu,76,49,73,6.02,26,Loamy,Zaid,32,53,121,Groundnut,1800,45
+Kerala,44,78,51,5.53,35,Clay,Kharif,18,78,210,Groundnut,1800,45
+Maharashtra,71,61,22,6.53,21,Sandy,Kharif,22,43,285,Cotton,1600,55
+Karnataka,79,36,63,6.83,29,Clay,Rabi,28,42,134,Maize,2800,19
+Tamil Nadu,100,66,44,5.66,22,Clay,Rabi,23,50,392,Maize,2800,19
+Andhra Pradesh,94,48,31,7.21,42,Sandy,Kharif,34,40,250,Maize,2800,19
+Maharashtra,53,46,33,6.74,45,Sandy,Zaid,37,55,390,Groundnut,1800,45
+Kerala,94,66,69,7.33,64,Loamy,Rabi,33,68,136,Rice,4200,22
+Kerala,59,62,43,6.77,66,Loamy,Rabi,21,70,201,Rice,4200,22
+Maharashtra,47,76,59,6.93,30,Loamy,Zaid,35,68,86,Cotton,1600,55
+Karnataka,85,29,44,6.28,58,Clay,Zaid,38,55,240,Cotton,1600,55
+Tamil Nadu,93,41,24,7.63,52,Loamy,Zaid,26,53,374,Wheat,3500,24
+Kerala,101,63,76,6.21,48,Loamy,Zaid,22,45,222,Groundnut,1800,45
+Karnataka,95,66,38,6.94,19,Loamy,Kharif,22,42,361,Cotton,1600,55
+Maharashtra,88,67,64,6.0,21,Sandy,Rabi,27,70,252,Maize,2800,19
+Maharashtra,104,70,58,6.05,16,Clay,Rabi,38,62,323,Wheat,3500,24
+Tamil Nadu,97,64,77,6.59,42,Sandy,Rabi,27,70,153,Maize,2800,19
+Tamil Nadu,100,38,40,7.45,38,Loamy,Kharif,31,74,84,Rice,4200,22
+Maharashtra,82,54,54,7.49,68,Sandy,Rabi,22,49,268,Wheat,3500,24
+Maharashtra,46,31,55,6.7,54,Loamy,Kharif,24,53,377,Maize,2800,19
+Karnataka,45,62,52,7.65,49,Sandy,Zaid,28,43,276,Groundnut,1800,45
+Maharashtra,97,24,80,6.35,44,Sandy,Zaid,20,66,236,Cotton,1600,55
+Tamil Nadu,105,29,32,6.79,15,Loamy,Rabi,21,68,288,Cotton,1600,55
+Karnataka,90,23,67,6.68,70,Loamy,Zaid,35,80,142,Rice,4200,22
+Kerala,88,35,29,6.41,32,Sandy,Zaid,36,50,188,Cotton,1600,55
+Kerala,120,55,34,7.0,38,Sandy,Zaid,26,61,145,Wheat,3500,24
+Kerala,68,58,66,7.61,69,Sandy,Kharif,21,54,345,Wheat,3500,24
+Kerala,57,70,64,6.62,45,Loamy,Kharif,21,46,246,Maize,2800,19
+Andhra Pradesh,92,64,65,6.36,38,Loamy,Kharif,26,65,353,Cotton,1600,55
+Karnataka,78,42,48,7.37,47,Loamy,Zaid,20,62,88,Wheat,3500,24
+Kerala,95,36,37,6.84,54,Sandy,Rabi,18,78,259,Cotton,1600,55
+Maharashtra,115,50,72,7.71,52,Loamy,Zaid,35,51,283,Groundnut,1800,45

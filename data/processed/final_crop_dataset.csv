@@ -1,0 +1,10 @@
+region,N,P,K,ph,moisture,soil_texture,season,temperature,humidity,rainfall,crop,historical_yield,market_price,estimated_profit,moisture_category,season_encoded
+Tamil Nadu,90,42,43,6.5,32,Loamy,Kharif,29,82,220,Rice,4200,22,92400,Medium,1
+Tamil Nadu,90,42,43,6.5,32,Loamy,Kharif,29,82,220,Maize,2800,19,53200,Medium,1
+Tamil Nadu,90,42,43,6.5,32,Loamy,Rabi,24,68,75,Rice,4200,22,92400,Medium,2
+Tamil Nadu,90,42,43,6.5,32,Loamy,Rabi,24,68,75,Maize,2800,19,53200,Medium,2
+Tamil Nadu,80,50,40,7.0,28,Clay,Kharif,29,82,220,Rice,4200,22,92400,Low,1
+Tamil Nadu,80,50,40,7.0,28,Clay,Kharif,29,82,220,Maize,2800,19,53200,Low,1
+Tamil Nadu,80,50,40,7.0,28,Clay,Rabi,24,68,75,Rice,4200,22,92400,Low,2
+Tamil Nadu,80,50,40,7.0,28,Clay,Rabi,24,68,75,Maize,2800,19,53200,Low,2
+Karnataka,70,35,30,6.8,25,Sandy,Kharif,27,78,190,Rice,3900,22,85800,Low,1
